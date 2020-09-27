@@ -1,6 +1,7 @@
 # Sprint 0 realizada pelo time 3
 
 ## **_Realização da primeira entrega do projeto integrador do segundo semestre de 2020_**
+![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/CardSprint0.png)
 
 **_27/09/2020 foi realizada a entrega de:_**
 
