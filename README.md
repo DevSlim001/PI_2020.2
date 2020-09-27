@@ -22,4 +22,4 @@ _Link para mostrar o arquivo do Backlog, em um arquivo online._
 
 _Link para mostrar o arquivo do Backlog, em um arquivo online._
 
-####E assim terminamos a nossa primeira entrega com **todos os requisitos compridos.**
+### E assim terminamos a nossa primeira entrega com **todos os requisitos compridos.**
