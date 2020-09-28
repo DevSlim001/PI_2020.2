@@ -12,10 +12,10 @@
 Assim como proposto pelos orientadores. Tais arquivos podem ser encontrados tanto no **próprio git**, ou pelos links gerados:
 
 --------------------------------------------------------------------------------------------------------------------
-[Telas no Figma](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/Gif_Figma.gif)
+[Telas no Figma](https://www.figma.com/file/HG6pqXWqIvgvZW6KFSeBns/PI-Time-3-IACIT?node-id=0%3A1)
 
 _Link para mostrar as telas realizadas no próprio figma._
-![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/SplashScream.png)
+![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/Gif_Figma.gif)
 
 --------------------------------------------------------------------------------------------------------------------
 [Modelagem de dados](https://drive.google.com/file/d/1U0JRBwAYJPOaDqs7rPUax06o20UPvOqa/view?usp=sharing)
