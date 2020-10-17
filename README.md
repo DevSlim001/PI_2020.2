@@ -1,11 +1,11 @@
 # Sprint 1 realizada pelo time 3 (Beta)
 story
 
-#O que o algoritmo pode fazer: 
+## **_O que o algoritmo pode fazer:_** 
 
 
 
-.[Tecnologia usada:]
+Tecnologia usada
 
 
 
