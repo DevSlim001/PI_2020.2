@@ -5,21 +5,21 @@ story
 
 
 
-#Tecnologia usada:
+.[Tecnologia usada:]
 
 
 
-#Requisitos para funcionamento do programa:
-
-
-
-
-#Tela de funcionamento:
+.[Requisitos para funcionamento do programa:]
 
 
 
 
-E assim é feito a entrega da sprint 1. Trabaho realizado pela equipe 3, subdivida em três frentes:
+.[Tela de funcionamento:]
+
+
+
+
+.[E assim é feito a entrega da sprint 1. Trabaho realizado pela equipe 3, subdivida em três frentes:]
 
 Front-end (Brenno Richard Rabelo de Almeida, Rafael Bettini Dias, Nicolas Cursino Magarifuchi)
 
