@@ -1,25 +1,29 @@
 # Sprint 1 realizada pelo time 3 (Beta)
+
 story
 
 ## **_O que o algoritmo pode fazer:_** 
 
 
 
-Tecnologia usada
 
-
-
-.[Requisitos para funcionamento do programa:]
-
-
-
-
-.[Tela de funcionamento:]
+## **_Tecnologia usada_**
 
 
 
 
-.[E assim é feito a entrega da sprint 1. Trabaho realizado pela equipe 3, subdivida em três frentes:]
+## **_Requisitos para funcionamento do programa:_**
+
+
+
+
+## **_Tela de funcionamento:_**
+
+
+
+
+
+## **_E assim é feito a entrega da sprint 1. Trabaho realizado pela equipe 3, subdivida em três frentes:_**
 
 _**Front-end** *(Brenno Richard Rabelo de Almeida, Rafael Bettini Dias, Nicolas Cursino Magarifuchi)*
 
