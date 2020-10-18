@@ -25,6 +25,16 @@ _Link para mostrar as telas realizadas no próprio figma._
 
 ## Telas:
 
+#### Tela de cadastro:
+![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/tela%20de%20cadastro.png)
+
+
+#### Tela de Login Motorista:
+![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/Tela%20motorista.png)
+
+#### Tela de Login Funcionário:
+
+![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/Tela%20administrador.png)
 --------------------------------------------------------------------------------------------------------------------
 
 ### Modelagem de dados
