@@ -4,20 +4,30 @@ story
 
 ## **_O que o algoritmo pode fazer:_** 
 
+#### A princípio ele tem duas partes a serem explicadas. E podemos resumir em 2 pontos:
+
+##### Motoristas:
+A parte dos motoristas fica responsável apenas pelo cadastro do mesmo, inserindo seus dados e clicando no botão de salvar.
 
 
+##### Funcionários:
+Os funcionários podem realizar o cadastro, verificar os motoristas cadastrados e ter acesso ao ID de cada um para realizar a ligação dos veículos. 
 
 ## **_Tecnologia usada_**
 
+- [X] Java (JDK 14)
+- [X] MySQL
+- [X] Xampp control
 
 
 
 ## **_Requisitos para funcionamento do programa:_**
 
+- [X] Java (JDK 14)
+- [X] MySQL
 
 
-
-## **_Tela de funcionamento:_**
+## **_Telas de funcionamento:_**
 
 
 
