@@ -12,6 +12,7 @@
 - [x] Backlog
 - [X] Códigos em Java
 - [X] Manipulação do Banco de dados
+- [X] MCU
 
 Assim como proposto pelos orientadores. Tais arquivos podem ser encontrados tanto no **próprio git**, ou pelos links gerados:
 
@@ -65,7 +66,19 @@ _Link para mostrar o arquivo do Backlog._
 _Link para mostrar o arquivo dos requisitos solicitados._
 
 --------------------------------------------------------------------------------------------------------------------
-### Os participantes do nosso time são dividitos em 3 frentes, e eles são:**
+
+## MCU
+
+#### Diagrama de caso e uso:
+
+![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/DiagramaMCU.png)
+
+[Documentação do diarama](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Nome%20do%20Caso%20de%20Uso.pdf)
+
+--------------------------------------------------------------------------------------------------------------------
+
+
+### Os participantes do nosso time são dividitos em 3 frentes, e eles são:
 
 - **Front-end** *(Brenno Richard Rabelo de Almeida, Rafael Bettini Dias, Nicolas Cursino Magarifuchi)*
 
