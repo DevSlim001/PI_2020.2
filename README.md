@@ -1,13 +1,17 @@
-# Sprint 0 realizada pelo time 3
+![](https://github.com/DevSlim001/PI_2020.2/blob/master/iconeFATEC.png)
+# Projeto integrador realizado pelo time 3
 
-## **_Realização da primeira entrega do projeto integrador do segundo semestre de 2020_**
-![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/CardSprint0.png)
+## **_Realização da entrega do projeto integrador do segundo semestre de 2020_**
 
-**_27/09/2020 foi realizada a entrega de:_**
+(Colocar todos os cards em 1 arquivo.)
 
-- [x] Backlog
+**_Para a contrução do projeto foi realizada a entrega de:_**
+
 - [x] Wireframes (Figma)
 - [x] Modelagem de dados
+- [x] Backlog
+- [X] Códigos em Java
+- [X] Manipulação do Banco de dados
 
 Assim como proposto pelos orientadores. Tais arquivos podem ser encontrados tanto no **próprio git**, ou pelos links gerados:
 
@@ -18,24 +22,40 @@ _Link para mostrar as telas realizadas no próprio figma._
 ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/Gif_Figma.gif)
 
 --------------------------------------------------------------------------------------------------------------------
-[Modelagem de dados](https://drive.google.com/file/d/1U0JRBwAYJPOaDqs7rPUax06o20UPvOqa/view?usp=sharing)
 
-_Link para mostrar o arquivo xml da modelagem de dados_
-
-![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/Modelagem_de_dados.jpeg)
+## Telas:
 
 --------------------------------------------------------------------------------------------------------------------
-[Backlog](https://drive.google.com/file/d/1hX1CQOZSLwuCmgdK_H4k2A4_rgNAjnRY/view?usp=sharing)
 
-_Link para mostrar o arquivo do Backlog, em um arquivo online._
+### Modelagem de dados
+
+#### Modelo conceitual:
+
+![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/modeloconceitual.jpg)
+
+#### Modelo lógico:
+
+![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/Modelo%20lógico.png)
 
 --------------------------------------------------------------------------------------------------------------------
-[Requisitos](https://drive.google.com/file/d/1ETfBoDQ9RTXCj1d2eY0zb4a-emGAtXW0/view?usp=sharing)
 
-_Link para mostrar o arquivo do Backlog, em um arquivo online._
+## Banco de dados funcional:
+
 
 --------------------------------------------------------------------------------------------------------------------
-### E assim terminamos a nossa primeira entrega com **todos os requisitos compridos. Também já nos organizamos escolhendo a IDE que vamos trabalhar e organizando o pessoal em 3 grupos, dois quais são:**
+[Backlog](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/Product%20Backlog.pdf)
+
+_Link para mostrar o arquivo do Backlog._
+
+![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/Backlogpng.png)
+
+--------------------------------------------------------------------------------------------------------------------
+[Requisitos](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/Template_de_Requisitos_de_2ADS_IACIT_atualizada%5B1062%5D%20(2)%20(1).pdf)
+
+_Link para mostrar o arquivo dos requisitos solicitados._
+
+--------------------------------------------------------------------------------------------------------------------
+### Os participantes do nosso time são dividitos em 3 frentes, e eles são:**
 
 - **Front-end** *(Brenno Richard Rabelo de Almeida, Rafael Bettini Dias, Nicolas Cursino Magarifuchi)*
 
