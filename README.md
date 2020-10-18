@@ -3,7 +3,7 @@
 
 ## **_Realização da entrega do projeto integrador do segundo semestre de 2020_**
 
-(Colocar todos os cards em 1 arquivo.)
+(Ainda vai ser inserido todos os cards em 1 arquivo.)
 
 **_Para a contrução do projeto foi realizada a entrega de:_**
 
@@ -24,7 +24,7 @@ _Link para mostrar as telas realizadas no próprio figma._
 
 --------------------------------------------------------------------------------------------------------------------
 
-## Telas:
+## Telas em JavaFX:
 
 #### Tela de cadastro:
 ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/tela%20de%20cadastro.png)
@@ -52,7 +52,7 @@ _Link para mostrar as telas realizadas no próprio figma._
 
 ## Banco de dados funcional:
 
-
+_ ainda vai ser interido_
 --------------------------------------------------------------------------------------------------------------------
 [Backlog](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/Product%20Backlog.pdf)
 
@@ -73,7 +73,7 @@ _Link para mostrar o arquivo dos requisitos solicitados._
 
 ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/DiagramaMCU.png)
 
-[Documentação do diarama](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Nome%20do%20Caso%20de%20Uso.pdf)
+[Documentação do diagrama](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Nome%20do%20Caso%20de%20Uso.pdf)
 
 --------------------------------------------------------------------------------------------------------------------
 
