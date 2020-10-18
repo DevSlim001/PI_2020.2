@@ -1,4 +1,7 @@
+![](https://github.com/DevSlim001/PI_2020.2/blob/master/iconeFATEC.png)
 # Sprint 1 realizada pelo time 3 (Beta)
+
+
 
 story
 
@@ -29,9 +32,41 @@ Os funcionários podem realizar o cadastro, verificar os motoristas cadastrados 
 
 ## **_Telas de funcionamento:_**
 
+#### Exemplos das telas em Swing:
+Tela de Motoristas
+
+![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/CadastroMotoristas.png)
 
 
+Tela de funcionários
 
+![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/Cadastro_pesquisaFuncinário.png)
+
+#### Exemplo das funcionalidades:
+
+Tutorial da tela de motorista
+
+![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/TutorialMotoristas.png)
+
+
+Tutorial da tela de funcionários
+
+![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/Tutorial_funcionário.png)
+
+#### Realização de Cadastro no Banco utilizando o Xampp:
+
+Realizando o cadastro e clicando em Salvar:
+
+![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/exemploCadastro.png)
+
+Verificando no banco de dados:
+
+![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/Provadecadastro.png)
+
+
+## Gráfico Burndown:
+
+![]() Vai ser inserido o gráfico aqui
 
 ## **_E assim é feito a entrega da sprint 1. Trabaho realizado pela equipe 3, subdivida em três frentes:_**
 
