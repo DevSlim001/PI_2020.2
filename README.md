@@ -61,6 +61,17 @@ Verificando no banco de dados:
 
 ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/Provadecadastro.png)
 
+## MCU:
+
+#### Diagrama de caso e uso:
+
+Realizamos o diagrama na aula de Engenharia de software e foi solicitado para ser inserido em nosso git.
+
+![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/DiagramaMCU.png)
+
+[Documentação do diagrama](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Nome%20do%20Caso%20de%20Uso.pdf)
+
+-------------------------------------------------------------------------------------------------------------------------
 
 ## Gráfico Burndown:
 
