@@ -9,6 +9,14 @@
 - [x] Wireframes (Figma)
 - [x] Modelagem de dados
 
+## **_Tecnologia usada_**
+
+
+## **_Requisitos para funcionamento do programa:_**
+
+
+## **_Tela de funcionamento:_**
+
 Assim como proposto pelos orientadores. Tais arquivos podem ser encontrados tanto no **próprio git**, ou pelos links gerados:
 
 --------------------------------------------------------------------------------------------------------------------
