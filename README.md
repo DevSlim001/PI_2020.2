@@ -74,11 +74,10 @@ Realizamos o diagrama na aula de Engenharia de software e foi solicitado para se
 -------------------------------------------------------------------------------------------------------------------------
 
 ## Gráfico Burndown:
-i
-[Gráfico](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/Burndown.xlsm)
 
-![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/GraficoBurndow.png)
+[Gráfico](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/GraficoBurndown.xlsm)
 
+![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/GraficoBurdowncerto.png)
 -------------------------------------------------------------------------------------------------------------------------
 
 ## **_E assim é feito a entrega da sprint 1. Trabaho realizado pela equipe 3, subdivida em três frentes:_**
