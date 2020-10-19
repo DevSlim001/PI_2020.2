@@ -1,5 +1,6 @@
 ![](https://github.com/DevSlim001/PI_2020.2/blob/master/iconeFATEC.png)
-# Sprint 1 realizada pelo time 3 (Beta)
+
+# Sprint 1 realizada pelo time 3
 ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/Logopit_1602980548129.png)
 story
 
@@ -75,7 +76,11 @@ Realizamos o diagrama na aula de Engenharia de software e foi solicitado para se
 
 ## Gráfico Burndown:
 
-![]() Vai ser inserido o gráfico aqui
+[Gráfico](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/Burndown.xlsm)
+
+![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/GraficoBurndow.png)
+
+-------------------------------------------------------------------------------------------------------------------------
 
 ## **_E assim é feito a entrega da sprint 1. Trabaho realizado pela equipe 3, subdivida em três frentes:_**
 
