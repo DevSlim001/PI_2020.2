@@ -2,7 +2,6 @@
 
 # Sprint 1 realizada pelo time 3
 ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/Logopit_1602980548129.png)
-story
 
 ## **_O que o algoritmo pode fazer:_** 
 
