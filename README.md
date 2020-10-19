@@ -74,7 +74,7 @@ Realizamos o diagrama na aula de Engenharia de software e foi solicitado para se
 -------------------------------------------------------------------------------------------------------------------------
 
 ## Gráfico Burndown:
-
+i
 [Gráfico](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/Burndown.xlsm)
 
 ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/GraficoBurndow.png)
