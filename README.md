@@ -61,6 +61,10 @@ Verificando no banco de dados:
 
 ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/Provadecadastro.png)
 
+## Backlog:
+
+![](https://github.com/DevSlim001/PI_2020.2/blob/master/Backlogadm.png)
+
 ## MCU:
 
 #### Diagrama de caso e uso:
