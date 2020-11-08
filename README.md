@@ -21,6 +21,8 @@
 
 . :scroll: **Eu como funcionário/administrador gostaria de acessar meu perfil para controle de jornada e cadastro de funcionários.**
 
+--------------------------------------------------------------------------------------------------------------------
+
 ## :dart: **_Priorização na Sprint 2:_**
 
 Foi decidido 40 de dificuldade devido aos processos de comunicação entre o software e o banco de dados, a troca de software para desenvolvimento Front-End e toda a parte de código responsáveis pela funcionalidade dos CRUD's construídos até o momento.
