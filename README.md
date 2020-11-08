@@ -1,6 +1,14 @@
 ![](https://github.com/DevSlim001/PI_2020.2/blob/master/iconeFATEC.png)
 # Projeto integrador realizado pelo time 3
 
+### Os participantes do nosso time são dividitos em 3 frentes, e eles são:
+
+- **Front-end** *(Brenno Richard Rabelo de Almeida, Rafael Bettini Dias, Nicolas Cursino Magarifuchi)*
+
+- **Back- end** *(Renan Alves de Medeiros, Ricardo Sousa de Paiva e Victor Gabriel Andrade de Melo)*
+
+- **Banco de dados** *(Cristian Mateus Teixeira Barbosa e Rafael dos Santos Pereira)*
+
 ## **_Realização da entrega do projeto integrador do segundo semestre de 2020_**
 
 (Ainda vai ser inserido todos os cards em 1 arquivo.)
@@ -78,10 +86,4 @@ _Link para mostrar o arquivo dos requisitos solicitados._
 --------------------------------------------------------------------------------------------------------------------
 
 
-### Os participantes do nosso time são dividitos em 3 frentes, e eles são:
 
-- **Front-end** *(Brenno Richard Rabelo de Almeida, Rafael Bettini Dias, Nicolas Cursino Magarifuchi)*
-
-- **Back- end** *(Renan Alves de Medeiros, Ricardo Sousa de Paiva e Victor Gabriel Andrade de Melo)*
-
-- **Banco de dados** *(Cristian Mateus Teixeira Barbosa e Rafael dos Santos Pereira)*
