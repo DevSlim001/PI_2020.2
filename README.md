@@ -1,3 +1,5 @@
+![](https://github.com/DevSlim001/PI_2020.2/blob/master/iconeFATEC.png) ![](https://github.com/DevSlim001/PI_2020.2/blob/master/iacit_logomarca.jpg)
+
 # Sprint 0 realizada pelo time 3
 
 Nosso time é organizando em 3 grupos, dois quais são:**
