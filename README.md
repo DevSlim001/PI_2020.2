@@ -1,4 +1,4 @@
-![](https://github.com/DevSlim001/PI_2020.2/blob/master/iconeFATEC.png)
+![](https://github.com/DevSlim001/PI_2020.2/blob/master/iconeFATEC.png) ![](https://github.com/DevSlim001/PI_2020.2/blob/master/iacit_logomarca.jpg) 
 # Projeto integrador realizado pelo time 3
 
 ### Os participantes do nosso time são dividitos em 3 frentes, e eles são:
