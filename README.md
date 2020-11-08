@@ -1,5 +1,6 @@
 ![](https://github.com/DevSlim001/PI_2020.2/blob/master/iconeFATEC.png)
 # PROJETO INTEGRADOR REALIZADO PELA EQUIPE 3
+### SPRINT 2
 
 ### A equipe é dividida em 3 frentes de trabalho:
 
