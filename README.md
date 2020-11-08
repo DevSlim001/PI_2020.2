@@ -1,4 +1,4 @@
-![](https://github.com/DevSlim001/PI_2020.2/blob/master/iconeFATEC.png)  ![](https://github.com/DevSlim001/PI_2020.2/blob/master/iacit_logomarca.jpg)
+![](https://github.com/DevSlim001/PI_2020.2/blob/master/logotipocomum.jpg)
 
 
 # PROJETO INTEGRADOR REALIZADO PELA EQUIPE 3
