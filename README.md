@@ -20,8 +20,8 @@ Nosso time é organizando em 3 grupos, dois quais são:**
 ## **_Tecnologia usada_**
 
 - [X] Java
-- [X] MySQL
-- [X] Xampp control
+- [X] PostgreSQL
+- [X] PGadmin
 
 
 ## **_Requisitos para funcionamento do programa:_**
