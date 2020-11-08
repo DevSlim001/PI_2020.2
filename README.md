@@ -84,6 +84,16 @@
 --------------------------------------------------------------------------------------------------------------------
 ## Como funciona?
 
+### Como entrar no aplicativo?
 
-![] colocar gifs
+![](https://github.com/DevSlim001/PI_2020.2/blob/sprint2/Entrar%20no%20app.gif)
 
+
+### Como realizar o cadastro, procurar, editar ou excluir os dados dos Motoristas/Funcionários?
+
+![](https://github.com/DevSlim001/PI_2020.2/blob/sprint2/CrudMotoristaFuncionário.gif)
+
+
+### Como Cadastrar, procurar, editar ou excluir os veículos?
+
+![](https://github.com/DevSlim001/PI_2020.2/blob/sprint2/CrudVeículos.gif)
