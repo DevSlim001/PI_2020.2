@@ -6,14 +6,14 @@
 
 ### A equipe foi dividida em 3 frentes de trabalho:
 
-- **Front-end** *(Brenno Richard Rabelo de Almeida, Rafael Bettini Dias, Nicolas Cursino Magarifuchi)*
+- :art: **Front-end** *(Brenno Richard Rabelo de Almeida, Rafael Bettini Dias, Nicolas Cursino Magarifuchi)*
 
-- **Back- end** *(Renan Alves de Medeiros, Ricardo Sousa de Paiva e Victor Gabriel Andrade de Melo)*
+- :computer: **Back- end** *(Renan Alves de Medeiros, Ricardo Sousa de Paiva e Victor Gabriel Andrade de Melo)*
 
-- **Banco de dados** *(Cristian Mateus Teixeira Barbosa e Rafael dos Santos Pereira)*
+- :floppy_disk: **Banco de dados** *(Cristian Mateus Teixeira Barbosa e Rafael dos Santos Pereira)*
 
 --------------------------------------------------------------------------------------------------------------------
-## **_Backlog_**
+## :bookmark: **_Backlog_**
 
 . **Eu como funcionário/administrador gostaria de cadastrar um motorista no sistema para controlar sua atividade.**
 
@@ -21,12 +21,12 @@
 
 . **Eu como funcionário/administrador gostaria de acessar meu perfil para controle de jornada e cadastro de funcionários.**
 
-## **_Priorização na Sprint 2:_**
+## :dart: **_Priorização na Sprint 2:_**
 
-.Foi decidido 40 de dificuldade devido aos processos de comunicação entre o software é o banco de dados, a troca de software para desenvolvimento Front-End e toda a parte de código responsáveis pela funcionalidade dos CRUD's construídos até o momento.
+Foi decidido 40 de dificuldade devido aos processos de comunicação entre o software é o banco de dados, a troca de software para desenvolvimento Front-End e toda a parte de código responsáveis pela funcionalidade dos CRUD's construídos até o momento.
 
 --------------------------------------------------------------------------------------------------------------------
-## Wireframes 
+## :framed_picture: Wireframes 
 
 #### Tela de cadastro:
 ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/tela%20de%20cadastro.png)
@@ -42,7 +42,7 @@
 
 --------------------------------------------------------------------------------------------------------------------
 
-## Burndown:
+## :running_man: Burndown:
 .
 . ![](https://github.com/DevSlim001/PI_2020.2/blob/sprint2/assets/PrintBurndown.png)
 .
@@ -50,7 +50,7 @@
 
 --------------------------------------------------------------------------------------------------------------------
 
-## Modelo de dados
+## :man_technologist: Modelo de dados
 
 #### Modelo conceitual:
 
@@ -63,7 +63,7 @@
 
 --------------------------------------------------------------------------------------------------------------------
 
-## Tecnologias empregadas:
+## :rocket: Tecnologias empregadas:
  
 . **PostgreSQL**
 
@@ -77,12 +77,12 @@
 
 --------------------------------------------------------------------------------------------------------------------
 
-#### Diagrama de Classes:
+#### :tea: Diagrama de Classes:
 
 ![](https://github.com/DevSlim001/PI_2020.2/blob/sprint2/diagramaclasses.png)
 
 --------------------------------------------------------------------------------------------------------------------
-## Como funciona?
+## :gear: Como funciona?
 
 ### Como entrar no aplicativo?
 
