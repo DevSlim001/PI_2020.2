@@ -1,4 +1,4 @@
-![](https://github.com/DevSlim001/PI_2020.2/blob/master/iconeFATEC.png)
+![](https://github.com/DevSlim001/PI_2020.2/blob/master/logotipocomum.jpg)
 
 ## **_E assim é feito a entrega da sprint 1. Trabaho realizado pela equipe 3, subdivida em três frentes:_**
 
