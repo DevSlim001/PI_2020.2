@@ -27,8 +27,8 @@ Os funcionários podem realizar o cadastro, verificar os motoristas cadastrados 
 ## **_Tecnologia usada_**
 
 - [X] Java (JDK 14)
-- [X] MySQL
-- [X] Xampp control
+- [X] PostgreSQL
+- [X] PgAdmin
 
 
 
