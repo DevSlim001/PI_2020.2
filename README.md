@@ -1,5 +1,13 @@
 # Sprint 0 realizada pelo time 3
 
+Nosso time é organizando em 3 grupos, dois quais são:**
+
+- **Front-end** *(Brenno Richard Rabelo de Almeida, Rafael Bettini Dias, Nicolas Cursino Magarifuchi)*
+
+- **Back- end** *(Renan Alves de Medeiros, Ricardo Sousa de Paiva e Victor Gabriel Andrade de Melo)*
+
+- **Banco de dados** *(Cristian Mateus Teixeira Barbosa e Rafael dos Santos Pereira)*
+
 ## **_Realização da primeira entrega do projeto integrador do segundo semestre de 2020_**
 ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/CardSprint0.png)
 
@@ -54,10 +62,4 @@ _Link para mostrar o arquivo dos requisitos no git._
 ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/Template_de_Requisitos_de_2ADS_IACIT_atualizada%5B1062%5D%20(2)%20(1).pdf)
 
 --------------------------------------------------------------------------------------------------------------------
-### E assim terminamos a nossa primeira entrega com **todos os requisitos compridos. Também já nos organizamos escolhendo a IDE que vamos trabalhar e organizando o pessoal em 3 grupos, dois quais são:**
-
-- **Front-end** *(Brenno Richard Rabelo de Almeida, Rafael Bettini Dias, Nicolas Cursino Magarifuchi)*
-
-- **Back- end** *(Renan Alves de Medeiros, Ricardo Sousa de Paiva e Victor Gabriel Andrade de Melo)*
-
-- **Banco de dados** *(Cristian Mateus Teixeira Barbosa e Rafael dos Santos Pereira)*
+### E assim terminamos a nossa primeira entrega com **todos os requisitos compridos. Também já nos organizamos escolhendo a IDE que vamos trabalhar.
