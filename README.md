@@ -32,8 +32,6 @@ Assim como proposto pelos orientadores. Tais arquivos podem ser encontrados tant
 .
 .
 
---------------------------------------------------------------------------------------------------------------------
-
 
 --------------------------------------------------------------------------------------------------------------------
 
@@ -49,21 +47,12 @@ Assim como proposto pelos orientadores. Tais arquivos podem ser encontrados tant
 #### Tela de Login Funcionário:
 
 ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/Tela%20administrador.png)
---------------------------------------------------------------------------------------------------------------------
-
-
 
 --------------------------------------------------------------------------------------------------------------------
 
 ## Banco de dados funcional:
 
 _ ainda vai ser interido_
---------------------------------------------------------------------------------------------------------------------
-[Backlog](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/Product%20Backlog.pdf)
-
-_Link para mostrar o arquivo do Backlog._
-
-![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/Backlogpng.png)
 
 --------------------------------------------------------------------------------------------------------------------
 [Requisitos](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/Template_de_Requisitos_de_2ADS_IACIT_atualizada%5B1062%5D%20(2)%20(1).pdf)
