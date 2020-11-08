@@ -2,7 +2,7 @@
 # PROJETO INTEGRADOR REALIZADO PELA EQUIPE 3
 ## :heavy_check_mark: SPRINT 1 
 
- ### Equipe subdivida em três frentes:_**
+ ### Equipe subdivida em três frentes:
 
 - **Front-end** *(Brenno Richard Rabelo de Almeida, Rafael Bettini Dias, Nicolas Cursino Magarifuchi)*
 
