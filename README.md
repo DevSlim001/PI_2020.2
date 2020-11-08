@@ -1,6 +1,8 @@
 ![](https://github.com/DevSlim001/PI_2020.2/blob/master/logotipocomum.jpg)
+# PROJETO INTEGRADOR REALIZADO PELA EQUIPE 3
+## :heavy_check_mark: SPRINT 1 
 
-## **_E assim é feito a entrega da sprint 1. Trabaho realizado pela equipe 3, subdivida em três frentes:_**
+ ### Equipe subdivida em três frentes:_**
 
 - **Front-end** *(Brenno Richard Rabelo de Almeida, Rafael Bettini Dias, Nicolas Cursino Magarifuchi)*
 
