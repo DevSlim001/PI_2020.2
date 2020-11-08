@@ -1,7 +1,7 @@
 ![](https://github.com/DevSlim001/PI_2020.2/blob/master/iconeFATEC.png)
-# Projeto integrador realizado pelo time 3
+# PROJETO INTEGRADOR REALIZADO PELA EQUIPE 3
 
-### Os participantes do nosso time são dividitos em 3 frentes, e eles são:
+### A equipe é dividida em 3 frentes de trabalho:
 
 - **Front-end** *(Brenno Richard Rabelo de Almeida, Rafael Bettini Dias, Nicolas Cursino Magarifuchi)*
 
@@ -34,8 +34,8 @@ Assim como proposto pelos orientadores. Tais arquivos podem ser encontrados tant
 
 
 --------------------------------------------------------------------------------------------------------------------
-
-## Telas em JavaFX:
+## Wireframes 
+### Telas em JavaFX:
 
 #### Tela de cadastro:
 ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/tela%20de%20cadastro.png)
@@ -55,13 +55,7 @@ Assim como proposto pelos orientadores. Tais arquivos podem ser encontrados tant
 _ ainda vai ser interido_
 
 --------------------------------------------------------------------------------------------------------------------
-[Requisitos](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/Template_de_Requisitos_de_2ADS_IACIT_atualizada%5B1062%5D%20(2)%20(1).pdf)
 
-_Link para mostrar o arquivo dos requisitos solicitados._
-
---------------------------------------------------------------------------------------------------------------------
-
-## MCU
 
 #### Diagrama de caso e uso:
 
@@ -71,7 +65,7 @@ _Link para mostrar o arquivo dos requisitos solicitados._
 
 --------------------------------------------------------------------------------------------------------------------
 
-#### Tecnologias empregadas:
+### Tecnologias empregadas:
 .
 .
 .
@@ -106,6 +100,7 @@ _Link para mostrar o arquivo dos requisitos solicitados._
 .
 .
 --------------------------------------------------------------------------------------------------------------------
+## Programa rodando:
 
 [Telas no Figma](https://www.figma.com/file/HG6pqXWqIvgvZW6KFSeBns/PI-Time-3-IACIT?node-id=0%3A1)
 
