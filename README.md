@@ -2,7 +2,7 @@
 
 
 # PROJETO INTEGRADOR REALIZADO PELA EQUIPE 3
-## SPRINT 2
+## :heavy_check_mark: SPRINT 2
 
 ### A equipe foi dividida em 3 frentes de trabalho:
 
