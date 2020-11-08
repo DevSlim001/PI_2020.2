@@ -6,25 +6,25 @@
 
 ### A equipe foi dividida em 3 frentes de trabalho:
 
-- **Front-end** *(Brenno Richard Rabelo de Almeida, Rafael Bettini Dias, Nicolas Cursino Magarifuchi)*
+- :computer: **Front-end** *(Brenno Richard Rabelo de Almeida, Rafael Bettini Dias, Nicolas Cursino Magarifuchi)*
 
-- **Back- end** *(Renan Alves de Medeiros, Ricardo Sousa de Paiva e Victor Gabriel Andrade de Melo)*
+- :abacus: **Back- end** *(Renan Alves de Medeiros, Ricardo Sousa de Paiva e Victor Gabriel Andrade de Melo)*
 
-- **Banco de dados** *(Cristian Mateus Teixeira Barbosa e Rafael dos Santos Pereira)*
+-  :floppy_disk: **Banco de dados** *(Cristian Mateus Teixeira Barbosa e Rafael dos Santos Pereira)*
 
 --------------------------------------------------------------------------------------------------------------------
-## **_Backlog_**
+##  :bookmark: **_Backlog_**
 .
 .
 .
 
-## **_Priorização na Sprint 2:_**
+## :dart: **_Priorização na Sprint 2:_**
 .
 .
 .
 .
 --------------------------------------------------------------------------------------------------------------------
-## Wireframes 
+## :framed_picture: Wireframes 
 
 #### Tela de cadastro:
 ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/tela%20de%20cadastro.png)
@@ -40,7 +40,7 @@
 
 --------------------------------------------------------------------------------------------------------------------
 
-## Tecnologias empregadas:
+## :rocket: Tecnologias empregadas:
 .
 .
 .
@@ -80,7 +80,7 @@
 ![](https://github.com/DevSlim001/PI_2020.2/blob/sprint2/diagramaclasses.png)
 
 --------------------------------------------------------------------------------------------------------------------
-## Como funciona?
+## :tea: Como funciona?
 
 
 ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/Gif_Figma.gif)
