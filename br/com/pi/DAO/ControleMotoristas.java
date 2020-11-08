@@ -83,7 +83,7 @@ public class ControleMotoristas {
     
     public Motoristas buscaMotoristas(Motoristas motoristas){
         conexao.conexao();
-        conexao.executasql("select *from motoristas where nome like'%"+motoristas.getPesquisa()+"%'");
+        conexao.executasql("select *from motoristas where cpf like'%"+motoristas.getPesquisa()+"%'");
         try {
             conexao.rs.first();
             motoristas.setId(conexao.rs.getInt("codigo"));
