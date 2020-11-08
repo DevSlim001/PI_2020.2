@@ -2,7 +2,7 @@
 # PROJETO INTEGRADOR REALIZADO PELA EQUIPE 3
 ## SPRINT 2
 
-### A equipe é dividida em 3 frentes de trabalho:
+### A equipe foi dividida em 3 frentes de trabalho:
 
 - **Front-end** *(Brenno Richard Rabelo de Almeida, Rafael Bettini Dias, Nicolas Cursino Magarifuchi)*
 
