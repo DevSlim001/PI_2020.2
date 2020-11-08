@@ -1,8 +1,9 @@
 ![](https://github.com/DevSlim001/PI_2020.2/blob/master/logotipocomum.jpg)
 
-# Sprint 0 realizada pelo time 3
+# PROJETO INTEGRADOR REALIZADO PELA EQUIPE 3
+## :heavy_check_mark: SPRINT 0
 
-Nosso time é organizando em 3 grupos, dois quais são:**
+### Nosso time é organizando em 3 frentes:
 
 - **Front-end** *(Brenno Richard Rabelo de Almeida, Rafael Bettini Dias, Nicolas Cursino Magarifuchi)*
 
