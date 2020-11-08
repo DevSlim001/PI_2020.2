@@ -1,6 +1,16 @@
 ![](https://github.com/DevSlim001/PI_2020.2/blob/master/iconeFATEC.png)
 
-# Sprint 1 realizada pelo time 3
+## **_E assim é feito a entrega da sprint 1. Trabaho realizado pela equipe 3, subdivida em três frentes:_**
+
+- **Front-end** *(Brenno Richard Rabelo de Almeida, Rafael Bettini Dias, Nicolas Cursino Magarifuchi)*
+
+- **Back- end** *(Renan Alves de Medeiros, Ricardo Sousa de Paiva e Victor Gabriel Andrade de Melo)*
+
+- **Banco de dados** *(Cristian Mateus Teixeira Barbosa e Rafael dos Santos Pereira)*
+
+
+
+
 ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/Logopit_1602980548129.png)
 
 ## **_O que o algoritmo pode fazer:_** 
@@ -83,13 +93,5 @@ Realizamos o diagrama na aula de Engenharia de software e foi solicitado para se
 
 ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/GraficoBurdowncerto.png)
 -------------------------------------------------------------------------------------------------------------------------
-
-## **_E assim é feito a entrega da sprint 1. Trabaho realizado pela equipe 3, subdivida em três frentes:_**
-
-- **Front-end** *(Brenno Richard Rabelo de Almeida, Rafael Bettini Dias, Nicolas Cursino Magarifuchi)*
-
-- **Back- end** *(Renan Alves de Medeiros, Ricardo Sousa de Paiva e Victor Gabriel Andrade de Melo)*
-
-- **Banco de dados** *(Cristian Mateus Teixeira Barbosa e Rafael dos Santos Pereira)*
 
 
