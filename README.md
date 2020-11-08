@@ -67,15 +67,7 @@ Foi decidido 40 de dificuldade devido aos processos de comunicação entre o sof
 
 ## :rocket: Tecnologias empregadas:
  
-. **PostgreSQL**
-
-. **Java Swing**
-
-. **JDK 14**
-
-. **PGadmin**
-
-. **IDE NetBeans**
+![](https://github.com/DevSlim001/PI_2020.2/blob/master/tecnology.png)
 
 --------------------------------------------------------------------------------------------------------------------
 
