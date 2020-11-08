@@ -35,7 +35,7 @@ Os funcionários podem realizar o cadastro, verificar os motoristas cadastrados 
 ## **_Requisitos para funcionamento do programa:_**
 
 - [X] Java (JDK 14)
-- [X] MySQL
+- [X] PostgreSQL
 
 
 ## **_Telas de funcionamento:_**
