@@ -6,25 +6,27 @@
 
 ### A equipe foi dividida em 3 frentes de trabalho:
 
-- :computer: **Front-end** *(Brenno Richard Rabelo de Almeida, Rafael Bettini Dias, Nicolas Cursino Magarifuchi)*
+- **Front-end** *(Brenno Richard Rabelo de Almeida, Rafael Bettini Dias, Nicolas Cursino Magarifuchi)*
 
-- :abacus: **Back- end** *(Renan Alves de Medeiros, Ricardo Sousa de Paiva e Victor Gabriel Andrade de Melo)*
+- **Back- end** *(Renan Alves de Medeiros, Ricardo Sousa de Paiva e Victor Gabriel Andrade de Melo)*
 
--  :floppy_disk: **Banco de dados** *(Cristian Mateus Teixeira Barbosa e Rafael dos Santos Pereira)*
+- **Banco de dados** *(Cristian Mateus Teixeira Barbosa e Rafael dos Santos Pereira)*
 
 --------------------------------------------------------------------------------------------------------------------
-##  :bookmark: **_Backlog_**
-.
-.
-.
+## **_Backlog_**
 
-## :dart: **_Priorização na Sprint 2:_**
-.
-.
-.
-.
+. **Eu como funcionário/administrador gostaria de cadastrar um motorista no sistema para controlar sua atividade.**
+
+. **Eu como motorista gostaria de acessar meu perfil para registro de atividade durante a jornada.**
+
+. **Eu como funcionário/administrador gostaria de acessar meu perfil para controle de jornada e cadastro de funcionários.**
+
+## **_Priorização na Sprint 2:_**
+
+.Foi decidido 40 de dificuldade devido aos processos de comunicação entre o software é o banco de dados, a troca de software para desenvolvimento Front-End e toda a parte de código responsáveis pela funcionalidade dos CRUD's construídos até o momento.
+
 --------------------------------------------------------------------------------------------------------------------
-## :framed_picture: Wireframes 
+## Wireframes 
 
 #### Tela de cadastro:
 ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/tela%20de%20cadastro.png)
@@ -40,34 +42,20 @@
 
 --------------------------------------------------------------------------------------------------------------------
 
-## :rocket: Tecnologias empregadas:
-.
-.
-.
-.
---------------------------------------------------------------------------------------------------------------------
 ## Burndown:
 .
-.
+.![] vai ser inserido o Burndown
 .
 .
 
 --------------------------------------------------------------------------------------------------------------------
 
 ## Modelo de dados
-.
-.
-.
-.
 
---------------------------------------------------------------------------------------------------------------------
 #### Modelo conceitual:
 
 ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/modeloconceitual.jpg)
 
-
-
---------------------------------------------------------------------------------------------------------------------
 
 #### Modelo lógico:
 
@@ -75,13 +63,22 @@
 
 --------------------------------------------------------------------------------------------------------------------
 
+## Tecnologias empregadas:
+ 
+. **PostgreSQL**
+. **Java Swing**
+. **JDK 14**
+. **PGadmin**
+. **IDE NetBeans**
+--------------------------------------------------------------------------------------------------------------------
+
 #### Diagrama de Classes:
 
 ![](https://github.com/DevSlim001/PI_2020.2/blob/sprint2/diagramaclasses.png)
 
 --------------------------------------------------------------------------------------------------------------------
-## :tea: Como funciona?
+## Como funciona?
 
 
-![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/Gif_Figma.gif)
+![] colocar gifs
 
