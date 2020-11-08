@@ -13,6 +13,7 @@
 
 (Ainda vai ser inserido todos os cards em 1 arquivo.)
 
+
 **_Para a contrução do projeto foi realizada a entrega de:_**
 
 - [x] Wireframes (Figma)
@@ -23,6 +24,13 @@
 - [X] MCU
 
 Assim como proposto pelos orientadores. Tais arquivos podem ser encontrados tanto no **próprio git**, ou pelos links gerados:
+
+
+**_Priorização na Sprint 2:_**
+.
+.
+.
+.
 
 --------------------------------------------------------------------------------------------------------------------
 [Telas no Figma](https://www.figma.com/file/HG6pqXWqIvgvZW6KFSeBns/PI-Time-3-IACIT?node-id=0%3A1)
@@ -46,15 +54,7 @@ _Link para mostrar as telas realizadas no próprio figma._
 ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/Tela%20administrador.png)
 --------------------------------------------------------------------------------------------------------------------
 
-### Modelagem de dados
 
-#### Modelo conceitual:
-
-![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/modeloconceitual.jpg)
-
-#### Modelo lógico:
-
-![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/Modelo%20lógico.png)
 
 --------------------------------------------------------------------------------------------------------------------
 
@@ -85,5 +85,39 @@ _Link para mostrar o arquivo dos requisitos solicitados._
 
 --------------------------------------------------------------------------------------------------------------------
 
+#### Tecnologias empregadas:
+.
+.
+.
+.
+--------------------------------------------------------------------------------------------------------------------
+#### Burndown:
+.
+.
+.
+.
+--------------------------------------------------------------------------------------------------------------------
+### Modelagem de dados
+.
+.
+.
+.
+
+--------------------------------------------------------------------------------------------------------------------
+#### Modelo conceitual:
+
+![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/modeloconceitual.jpg)
+
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+#### Modelo lógico:
+
+![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/Modelo%20lógico.png)
+
+.
+.
+.
 
 
