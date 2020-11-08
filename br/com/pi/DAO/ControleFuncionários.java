@@ -77,7 +77,7 @@ public class ControleFuncionários {
     
     public Funcionários buscaFuncionarios(Funcionários funcionarios){
         conexao.conexao();
-        conexao.executasql("select *from funcionarios where nome like'%"+funcionarios.getPesquisa()+"%'");
+        conexao.executasql("select *from funcionarios where cpf like'%"+funcionarios.getPesquisa()+"%'");
         try {
             conexao.rs.first();
             funcionarios.setId(conexao.rs.getInt("id"));
