@@ -44,7 +44,7 @@
 
 ## Burndown:
 .
-.![] vai ser inserido o Burndown
+. ![](https://github.com/DevSlim001/PI_2020.2/blob/sprint2/assets/PrintBurndown.png)
 .
 .
 
