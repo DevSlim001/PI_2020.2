@@ -69,9 +69,10 @@
 
 ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/Modelo%20lógico.png)
 
-.
-.
-.
+### Diagrama de Classes:
+
+![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/diagramaclasses.png)
+
 --------------------------------------------------------------------------------------------------------------------
 ## Como funciona?
 
