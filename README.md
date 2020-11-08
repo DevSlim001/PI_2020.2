@@ -15,11 +15,11 @@
 --------------------------------------------------------------------------------------------------------------------
 ## :bookmark: **_Backlog_**
 
-. **Eu como funcionário/administrador gostaria de cadastrar um motorista no sistema para controlar sua atividade.**
+. :scroll: **Eu como funcionário/administrador gostaria de cadastrar um motorista no sistema para controlar sua atividade.**
 
-. **Eu como motorista gostaria de acessar meu perfil para registro de atividade durante a jornada.**
+. :scroll: **Eu como motorista gostaria de acessar meu perfil para registro de atividade durante a jornada.**
 
-. **Eu como funcionário/administrador gostaria de acessar meu perfil para controle de jornada e cadastro de funcionários.**
+. :scroll: **Eu como funcionário/administrador gostaria de acessar meu perfil para controle de jornada e cadastro de funcionários.**
 
 ## :dart: **_Priorização na Sprint 2:_**
 
