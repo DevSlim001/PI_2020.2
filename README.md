@@ -45,10 +45,10 @@ Foi decidido 40 de dificuldade devido aos processos de comunicação entre o sof
 --------------------------------------------------------------------------------------------------------------------
 
 ## :running_man: Burndown:
-.
-. ![](https://github.com/DevSlim001/PI_2020.2/blob/sprint2/assets/PrintBurndown.png)
-.
-.
+
+ ![](https://github.com/DevSlim001/PI_2020.2/blob/sprint2/assets/PrintBurndown.png)
+
+
 
 --------------------------------------------------------------------------------------------------------------------
 
