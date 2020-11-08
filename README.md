@@ -75,7 +75,7 @@
 
 #### Diagrama de Classes:
 
-![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/diagramaclasses.png)
+![](https://github.com/DevSlim001/PI_2020.2/blob/sprint2/diagramaclasses.png)
 
 --------------------------------------------------------------------------------------------------------------------
 ## Como funciona?
