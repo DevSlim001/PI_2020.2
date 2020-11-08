@@ -9,22 +9,6 @@
 
 - **Banco de dados** *(Cristian Mateus Teixeira Barbosa e Rafael dos Santos Pereira)*
 
-## **_Realização da entrega do projeto integrador do segundo semestre de 2020_**
-
-(Ainda vai ser inserido todos os cards em 1 arquivo.)
-
-
-**_Para a contrução do projeto foi realizada a entrega de:_**
-
-- [x] Baccklog com priorização 
-- [x] Wireframes (Figma) 
-- [x] Tecnologias empregadas
-- [X] Burndown
-- [X] Modelagem de dados
-- [X] Apresentação do programa rodando
-
-Assim como proposto pelos orientadores. Tais arquivos podem ser encontrados tanto no **próprio git**, ou pelos links gerados:
-
 
 ## **_Priorização na Sprint 2:_**
 .
@@ -35,7 +19,6 @@ Assim como proposto pelos orientadores. Tais arquivos podem ser encontrados tant
 
 --------------------------------------------------------------------------------------------------------------------
 ## Wireframes 
-### Telas em JavaFX:
 
 #### Tela de cadastro:
 ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/tela%20de%20cadastro.png)
@@ -102,7 +85,6 @@ _ ainda vai ser interido_
 --------------------------------------------------------------------------------------------------------------------
 ## Programa rodando:
 
-[Telas no Figma](https://www.figma.com/file/HG6pqXWqIvgvZW6KFSeBns/PI-Time-3-IACIT?node-id=0%3A1)
 
 _Link para mostrar as telas realizadas no próprio figma._
 ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/Gif_Figma.gif)
