@@ -14,29 +14,23 @@
 ## **_Realização da primeira entrega do projeto integrador do segundo semestre de 2020_**
 ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/CardSprint0.png)
 
-**_27/09/2020 foi realizada a entrega de:_**
-
-- [x] Backlog
-- [x] Wireframes (Figma)
-- [x] Modelagem de dados
+--------------------------------------------------------------------------------------------------------------------
 
 ## :bookmark: **_Backlog_**
 
 ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/Backlogpng.png)
 
+--------------------------------------------------------------------------------------------------------------------
 
-## **_Tecnologia usada_**
+## :dart: **_Priorização na Sprint 0:_**
 
-- [X] Java
-- [X] PostgreSQL
-- [X] PGadmin
+- [x] Backlog
+- [x] Wireframes (Figma)
+- [x] Modelagem de dados
 
+--------------------------------------------------------------------------------------------------------------------
 
-## **_Requisitos para funcionamento do programa:_**
-
-- [X] Java (JDK 14)
-
-## **_Tela de funcionamento:_**
+## :framed_picture: **_Wireframes :_**
 
 Assim como proposto pelos orientadores. Tais arquivos podem ser encontrados tanto no **próprio git**, ou pelos links gerados:
 
@@ -46,7 +40,13 @@ _Link para mostrar as telas realizadas no próprio figma._
 ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/Gif_Figma.gif)
 
 --------------------------------------------------------------------------------------------------------------------
-### Modelagem de dados
+
+## :running_man: Burndown:
+....
+
+--------------------------------------------------------------------------------------------------------------------
+
+### :man_technologist: Modelagem de dados
 
 #### Modelo conceitual:
 
@@ -56,18 +56,21 @@ _Link para mostrar as telas realizadas no próprio figma._
 
 ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/Modelo%20lógico.png)
 
+
 --------------------------------------------------------------------------------------------------------------------
-[Backlog](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/Product%20Backlog.pdf)
 
-_Link para mostrar o arquivo do Backlog no git._
+## :rocket: **_Tecnologia usada_**
 
-![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/Backlogpng.png)
+- [X] Java
+- [X] PostgreSQL
+- [X] PGadmin
+- [X] Java (JDK 14)
+
+
+
 --------------------------------------------------------------------------------------------------------------------
-[Requisitos](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/Template_de_Requisitos_de_2ADS_IACIT_atualizada%5B1062%5D%20(2)%20(1).pdf)
+## :gear: Como funciona?
 
-_Link para mostrar o arquivo dos requisitos no git._
-
-![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/Template_de_Requisitos_de_2ADS_IACIT_atualizada%5B1062%5D%20(2)%20(1).pdf)
 
 --------------------------------------------------------------------------------------------------------------------
 ### E assim terminamos a nossa primeira entrega com **todos os requisitos compridos. Também já nos organizamos escolhendo a IDE que vamos trabalhar.
