@@ -25,6 +25,11 @@
 
 ## :dart: **_Priorização na Sprint 1:_**
 
+#### Conforme acordado com o cliente para uma melhor desenvolvimento das proximas sprints foi priorizado nessa entrega:
+
+- [x] Gruds dos motoristas
+- [x] Gruds dos funcionários 
+
 --------------------------------------------------------------------------------------------------------------------
 
 ## :framed_picture: Wireframes 
@@ -81,9 +86,6 @@
 
 --------------------------------------------------------------------------------------------------------------------
 
-## :gear: Como funciona?
-
---------------------------------------------------------------------------------------------------------------------
  
 
 
