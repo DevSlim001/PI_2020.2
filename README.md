@@ -4,45 +4,29 @@
 
  ### Equipe subdivida em três frentes:
 
-- **Front-end** *(Brenno Richard Rabelo de Almeida, Rafael Bettini Dias, Nicolas Cursino Magarifuchi)*
+- :art: **Front-end** *(Brenno Richard Rabelo de Almeida, Rafael Bettini Dias, Nicolas Cursino Magarifuchi)*
 
-- **Back- end** *(Renan Alves de Medeiros, Ricardo Sousa de Paiva e Victor Gabriel Andrade de Melo)*
+- :computer: **Back- end** *(Renan Alves de Medeiros, Ricardo Sousa de Paiva e Victor Gabriel Andrade de Melo)*
 
-- **Banco de dados** *(Cristian Mateus Teixeira Barbosa e Rafael dos Santos Pereira)*
+- :floppy_disk: **Banco de dados** *(Cristian Mateus Teixeira Barbosa e Rafael dos Santos Pereira)*
 
-
-
+--------------------------------------------------------------------------------------------------------------------
 
 ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/Logopit_1602980548129.png)
 
-## **_O que o algoritmo pode fazer:_** 
+--------------------------------------------------------------------------------------------------------------------
+## :bookmark: **_Backlog_**
 
-#### A princípio ele tem duas partes a serem explicadas. E podemos resumir em 2 pontos:
+![](https://github.com/DevSlim001/PI_2020.2/blob/master/Backlogadm.png)
 
-##### Motoristas:
-A parte dos motoristas fica responsável apenas pelo cadastro do mesmo, inserindo seus dados e clicando no botão de salvar.
+--------------------------------------------------------------------------------------------------------------------
 
+## :dart: **_Priorização na Sprint 2:_**
 
-##### Funcionários:
-Os funcionários podem realizar o cadastro, verificar os motoristas cadastrados e ter acesso ao ID de cada um para realizar a ligação dos veículos. 
+--------------------------------------------------------------------------------------------------------------------
 
-## **_Tecnologia usada_**
+## :framed_picture: Wireframes 
 
-- [X] Java (JDK 14)
-- [X] PostgreSQL
-- [X] PgAdmin
-
-
-
-## **_Requisitos para funcionamento do programa:_**
-
-- [X] Java (JDK 14)
-- [X] PostgreSQL
-
-
-## **_Telas de funcionamento:_**
-
-#### Exemplos das telas em Swing:
 Tela de Motoristas
 
 ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/CadastroMotoristas.png)
@@ -73,11 +57,17 @@ Verificando no banco de dados:
 
 ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/Provadecadastro.png)
 
-## Backlog:
+--------------------------------------------------------------------------------------------------------------------
 
-![](https://github.com/DevSlim001/PI_2020.2/blob/master/Backlogadm.png)
+## :running_man: Burndown:
 
-## MCU:
+[Gráfico](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/GraficoBurndown.xlsm)
+
+![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/GraficoBurdowncerto.png)
+
+--------------------------------------------------------------------------------------------------------------------
+
+## :man_technologist: Modelo de dados
 
 #### Diagrama de caso e uso:
 
@@ -87,13 +77,38 @@ Realizamos o diagrama na aula de Engenharia de software e foi solicitado para se
 
 [Documentação do diagrama](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Nome%20do%20Caso%20de%20Uso.pdf)
 
--------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
-## Gráfico Burndown:
+## :rocket: Tecnologias empregadas:
 
-[Gráfico](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/GraficoBurndown.xlsm)
+![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/tecnology_sprint0.png)
 
-![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/GraficoBurdowncerto.png)
--------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+
+## :gear: Como funciona?
+
+--------------------------------------------------------------------------------------------------------------------
+
+## **_O que o algoritmo pode fazer:_** 
+
+#### A princípio ele tem duas partes a serem explicadas. E podemos resumir em 2 pontos:
+
+##### Motoristas:
+A parte dos motoristas fica responsável apenas pelo cadastro do mesmo, inserindo seus dados e clicando no botão de salvar.
+
+
+##### Funcionários:
+Os funcionários podem realizar o cadastro, verificar os motoristas cadastrados e ter acesso ao ID de cada um para realizar a ligação dos veículos. 
+
+## **_Tecnologia usada_**
+
+ 
+
+
+
+
+
+
+
 
 
