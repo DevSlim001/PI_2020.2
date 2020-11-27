@@ -81,8 +81,6 @@
 --------------------------------------------------------------------------------------------------------------------
 ## :gear: Como funciona?
 
-Assim como proposto pelos orientadores. Tais arquivos podem ser encontrados tanto no **próprio git**, ou pelos links gerados:
-
 ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/Gif_Figma.gif)
 
 --------------------------------------------------------------------------------------------------------------------
