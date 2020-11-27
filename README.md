@@ -24,6 +24,8 @@
 
 ## :dart: **_Priorização na Sprint 0:_**
 
+Conforme acordado com o cliente para uma melhor organização e planejamento das proximas sprints foi priorizado nessa entrega:
+
 - [x] Backlog
 - [x] Wireframes (Figma)
 - [x] Modelagem de dados
@@ -32,6 +34,23 @@
 
 ## :framed_picture: **_Wireframes :_**
 
+#### Tela de longin inicial:
+![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Tela%20de%20Login%201.png)
+
+#### Tela de Login Motorista:
+![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Tela%20de%20Login%20(MOT).png)
+
+#### Tela de Login do Administrador:
+
+![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Tela%20de%20Login%20(ADM).png)
+
+#### Tela de cadastro:
+
+![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Tela%20de%20Cadastro.png)
+
+#### Tela sobre as informações da jornada:
+
+![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Tela%20-%20Informa%C3%A7%C3%B5es%20da%20Jornada.png)
 
 
 --------------------------------------------------------------------------------------------------------------------
@@ -56,11 +75,7 @@
 
 ## :rocket: **_Tecnologia usada_**
 
-- [X] Java
-- [X] PostgreSQL
-- [X] PGadmin
-- [X] Java (JDK 14)
-
+![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/tecnology_sprint0.png)
 
 
 --------------------------------------------------------------------------------------------------------------------
