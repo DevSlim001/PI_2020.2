@@ -84,17 +84,7 @@
 ## :gear: Como funciona?
 
 --------------------------------------------------------------------------------------------------------------------
-
-## **_O que o algoritmo pode fazer:_** 
-
-#### A princípio ele tem duas partes a serem explicadas. E podemos resumir em 2 pontos:
-
-##### Motoristas:
-A parte dos motoristas fica responsável apenas pelo cadastro do mesmo, inserindo seus dados e clicando no botão de salvar.
-
-
-##### Funcionários:
-Os funcionários podem realizar o cadastro, verificar os motoristas cadastrados e ter acesso ao ID de cada um para realizar a ligação dos veículos. 
+ 
 
 
 
