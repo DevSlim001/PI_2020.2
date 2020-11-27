@@ -5,11 +5,11 @@
 
 ### Nosso time é organizando em 3 frentes:
 
-- **Front-end** *(Brenno Richard Rabelo de Almeida, Rafael Bettini Dias, Nicolas Cursino Magarifuchi)*
+- :art: **Front-end** *(Brenno Richard Rabelo de Almeida, Rafael Bettini Dias, Nicolas Cursino Magarifuchi)*
 
-- **Back- end** *(Renan Alves de Medeiros, Ricardo Sousa de Paiva e Victor Gabriel Andrade de Melo)*
+- :computer: **Back- end** *(Renan Alves de Medeiros, Ricardo Sousa de Paiva e Victor Gabriel Andrade de Melo)*
 
-- **Banco de dados** *(Cristian Mateus Teixeira Barbosa e Rafael dos Santos Pereira)*
+- :floppy_disk: **Banco de dados** *(Cristian Mateus Teixeira Barbosa e Rafael dos Santos Pereira)*
 
 ## **_Realização da primeira entrega do projeto integrador do segundo semestre de 2020_**
 ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/CardSprint0.png)
