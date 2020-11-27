@@ -20,6 +20,11 @@
 - [x] Wireframes (Figma)
 - [x] Modelagem de dados
 
+## :bookmark: **_Backlog_**
+
+![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/Backlogpng.png)
+
+
 ## **_Tecnologia usada_**
 
 - [X] Java
