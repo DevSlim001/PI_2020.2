@@ -24,7 +24,7 @@
 
 ## :dart: **_Priorização na Sprint 0:_**
 
-Conforme acordado com o cliente para uma melhor organização e planejamento das proximas sprints foi priorizado nessa entrega:
+#### Conforme acordado com o cliente para uma melhor organização e planejamento das proximas sprints foi priorizado nessa entrega:
 
 - [x] Backlog
 - [x] Wireframes (Figma)
@@ -34,10 +34,10 @@ Conforme acordado com o cliente para uma melhor organização e planejamento das
 
 ## :framed_picture: **_Wireframes :_**
 
-#### Tela de longin inicial:
+#### Tela de login inicial:
 ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Tela%20de%20Login%201.png)
 
-#### Tela de Login Motorista:
+#### Tela de login do Motorista:
 ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Tela%20de%20Login%20(MOT).png)
 
 #### Tela de Login do Administrador:
