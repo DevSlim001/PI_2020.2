@@ -32,12 +32,7 @@
 
 ## :framed_picture: **_Wireframes :_**
 
-Assim como proposto pelos orientadores. Tais arquivos podem ser encontrados tanto no **próprio git**, ou pelos links gerados:
 
-[Telas no Figma](https://www.figma.com/file/HG6pqXWqIvgvZW6KFSeBns/PI-Time-3-IACIT?node-id=0%3A1)
-
-_Link para mostrar as telas realizadas no próprio figma._
-![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/Gif_Figma.gif)
 
 --------------------------------------------------------------------------------------------------------------------
 
@@ -71,6 +66,12 @@ _Link para mostrar as telas realizadas no próprio figma._
 --------------------------------------------------------------------------------------------------------------------
 ## :gear: Como funciona?
 
+Assim como proposto pelos orientadores. Tais arquivos podem ser encontrados tanto no **próprio git**, ou pelos links gerados:
+
+[Telas no Figma](https://www.figma.com/file/HG6pqXWqIvgvZW6KFSeBns/PI-Time-3-IACIT?node-id=0%3A1)
+
+_Link para mostrar as telas realizadas no próprio figma._
+![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/Gif_Figma.gif)
 
 --------------------------------------------------------------------------------------------------------------------
 ### E assim terminamos a nossa primeira entrega com **todos os requisitos compridos. Também já nos organizamos escolhendo a IDE que vamos trabalhar.
