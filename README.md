@@ -12,7 +12,7 @@
 
 --------------------------------------------------------------------------------------------------------------------
 
-![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/Logopit_1602980548129.png)
+![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Logocard2.png)
 
 --------------------------------------------------------------------------------------------------------------------
 ## :bookmark: **_Backlog_**
@@ -27,33 +27,33 @@
 
 ## :framed_picture: Wireframes 
 
-Tela de Motoristas
+##### Tela de Motoristas
 
 ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/CadastroMotoristas.png)
 
 
-Tela de funcionários
+##### Tela de funcionários
 
 ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/Cadastro_pesquisaFuncinário.png)
 
 #### Exemplo das funcionalidades:
 
-Tutorial da tela de motorista
+##### Tutorial da tela de motorista
 
 ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/TutorialMotoristas.png)
 
 
-Tutorial da tela de funcionários
+##### Tutorial da tela de funcionários
 
 ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/Tutorial_funcionário.png)
 
 #### Realização de Cadastro no Banco utilizando o Xampp:
 
-Realizando o cadastro e clicando em Salvar:
+##### Realizando o cadastro e clicando em Salvar:
 
 ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/exemploCadastro.png)
 
-Verificando no banco de dados:
+##### Verificando no banco de dados:
 
 ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/Provadecadastro.png)
 
@@ -70,8 +70,6 @@ Verificando no banco de dados:
 ## :man_technologist: Modelo de dados
 
 #### Diagrama de caso e uso:
-
-Realizamos o diagrama na aula de Engenharia de software e foi solicitado para ser inserido em nosso git.
 
 ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/DiagramaMCU.png)
 
@@ -100,7 +98,7 @@ A parte dos motoristas fica responsável apenas pelo cadastro do mesmo, inserind
 ##### Funcionários:
 Os funcionários podem realizar o cadastro, verificar os motoristas cadastrados e ter acesso ao ID de cada um para realizar a ligação dos veículos. 
 
-## **_Tecnologia usada_**
+
 
  
 
