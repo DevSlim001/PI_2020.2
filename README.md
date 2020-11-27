@@ -63,8 +63,6 @@
 
 ## :running_man: Burndown:
 
-[Gráfico](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/GraficoBurndown.xlsm)
-
 ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/GraficoBurdowncerto.png)
 
 --------------------------------------------------------------------------------------------------------------------
@@ -74,8 +72,6 @@
 #### Diagrama de caso e uso:
 
 ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/DiagramaMCU.png)
-
-[Documentação do diagrama](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Nome%20do%20Caso%20de%20Uso.pdf)
 
 --------------------------------------------------------------------------------------------------------------------
 
