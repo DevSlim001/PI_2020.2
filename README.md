@@ -51,7 +51,7 @@ Foi decidido 40 de dificuldade devido aos processos de comunicação entre o sof
 
 ## :running_man: Burndown:
 
- ![](https://github.com/DevSlim001/PI_2020.2/blob/sprint2/assets/PrintBurndown.png)
+ ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/BurndownSprint3.png)
 
 
 
@@ -61,12 +61,12 @@ Foi decidido 40 de dificuldade devido aos processos de comunicação entre o sof
 
 #### Modelo conceitual:
 
-![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/modeloconceitual.jpg)
+![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/mc_sprint3.jpg)
 
 
 #### Modelo lógico:
 
-![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/Modelo%20lógico.png)
+![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/ml_sprint3.png)
 
 --------------------------------------------------------------------------------------------------------------------
 
@@ -83,16 +83,28 @@ Foi decidido 40 de dificuldade devido aos processos de comunicação entre o sof
 --------------------------------------------------------------------------------------------------------------------
 ## :gear: Como funciona?
 
-### Como entrar no aplicativo?
+### Como adicionar  uma viagem ?
 
-![](https://github.com/DevSlim001/PI_2020.2/blob/sprint2/Entrar%20no%20app.gif)
-
-
-### Como realizar o cadastro, procurar, editar ou excluir os dados dos Motoristas/Funcionários?
-
-![](https://github.com/DevSlim001/PI_2020.2/blob/sprint2/CrudMotoristaFuncionário.gif)
+![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Adicionar-viagem-Funcionario3_1.gif)
 
 
-### Como Cadastrar, procurar, editar ou excluir os veículos?
+### Como mudar status de de viagem?
 
-![](https://github.com/DevSlim001/PI_2020.2/blob/sprint2/CrudVeículos.gif)
+![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Mudar-status-de-viagem-Motorista3_4.gif)
+
+
+### Como verificar status em tempo real?
+
+![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Verificar-status-em-tempo-real3_3.gif)
+
+
+### Como verificar viagens finalizadas?
+
+![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Como-verificar-viagens-finalizadas-Funcionario3_2.gif)
+
+
+
+
+
+
+
