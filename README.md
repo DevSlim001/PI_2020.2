@@ -11,14 +11,13 @@
 - :floppy_disk: **Banco de dados** *(Cristian Mateus Teixeira Barbosa e Rafael dos Santos Pereira)*
 
 
-**_Etapas de desenvolvimento:_**
+## **_Etapas de desenvolvimento:_**
 
-- [x] Wireframes (Figma)
-- [x] Modelagem de dados
-- [x] Backlog
-- [X] Códigos em Java
-- [X] Manipulação do Banco de dados
-- [X] MCU
+Entregas | Prioridade | Período de realização | Status
+Sprint 0 | Backlog, wireframes, modelagem de dados | 07/09 a 27/09 |:heavy_check_mark:
+Sprint 1 |Gruds dos motoristas e funcionários | 28/09 a 18/10 |:heavy_check_mark:
+Sprint 2 |Desenvolvimento Front-End | 19/10 a 8/11 | :heavy_check_mark:
+Sprint 3 |Relatórios | 9/11 a 29/11 | :heavy_check_mark:
 
 --------------------------------------------------------------------------------------------------------------------
 ## :bookmark: **_Backlog completo_**
