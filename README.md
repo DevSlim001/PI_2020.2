@@ -1,7 +1,6 @@
-![](https://github.com/DevSlim001/PI_2020.2/blob/master/logotipocomum.jpg)
-
-# PROJETO INTEGRADOR REALIZADO PELA EQUIPE 3
-## :heavy_check_mark: SPRINT 0
+## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/logotipocomum.jpg) </h1> 
+# <h1 align="center"> PROJETO INTEGRADOR REALIZADO PELA EQUIPE 3 </h1> 
+## <h1 align="center"> :heavy_check_mark: SPRINT 0 </h1>
 
 ### Nosso time é organizando em 3 frentes:
 
@@ -12,13 +11,13 @@
 - :floppy_disk: **Banco de dados** *(Cristian Mateus Teixeira Barbosa e Rafael dos Santos Pereira)*
 
 ## **_Realização da primeira entrega do projeto integrador do segundo semestre de 2020_**
-![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/CardSprint0.png)
+## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/CardSprint0.png) </h1> 
 
 --------------------------------------------------------------------------------------------------------------------
 
 ## :bookmark: **_Backlog_**
 
-![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/Backlogpng.png)
+## <h1 align="center">  ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/Backlogpng.png) </h1> 
 
 --------------------------------------------------------------------------------------------------------------------
 
@@ -34,49 +33,49 @@
 
 ## :framed_picture: **_Wireframes :_**
 
-#### Tela de login inicial:
-![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Tela%20de%20Login%201.png)
+## <h3 align="center"> Tela de login inicial: </h3> 
+# <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Tela%20de%20Login%201.png) </h1>
 
-#### Tela de login do Motorista:
-![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Tela%20de%20Login%20(MOT).png)
+## <h3 align="center"> Tela de login do Motorista: </h3> 
+# <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Tela%20de%20Login%20(MOT).png) </h1>
 
-#### Tela de Login do Administrador:
+## <h3 align="center"> Tela de Login do Administrador: </h3> 
 
-![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Tela%20de%20Login%20(ADM).png)
+# <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Tela%20de%20Login%20(ADM).png) </h1>
 
-#### Tela de cadastro:
+## <h3 align="center"> Tela de cadastro: </h3> 
 
-![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Tela%20de%20Cadastro.png)
+# <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Tela%20de%20Cadastro.png) </h1>
 
-#### Tela sobre as informações da jornada:
+## <h3 align="center"> Tela sobre as informações da jornada: </h3> 
 
-![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Tela%20-%20Informa%C3%A7%C3%B5es%20da%20Jornada.png)
+<h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Tela%20-%20Informa%C3%A7%C3%B5es%20da%20Jornada.png) </h1>
 
 
 --------------------------------------------------------------------------------------------------------------------
 
 ### :man_technologist: Modelagem de dados
 
-#### Modelo conceitual:
+## <h3 align="center">  Modelo conceitual: </h3> 
 
-![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/modeloconceitual.jpg)
+## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/modeloconceitual.jpg) </h1>
 
-#### Modelo lógico:
+## <h3 align="center">  Modelo lógico: </h3> 
 
-![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/Modelo%20lógico.png)
+##<h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/Modelo%20lógico.png) </h1>
 
 
 --------------------------------------------------------------------------------------------------------------------
 
 ## :rocket: **_Tecnologia usada_**
 
-![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/tecnology_sprint0.png)
+## <h3 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/tecnology_sprint0.png) </h3> 
 
 
 --------------------------------------------------------------------------------------------------------------------
 ## :gear: Como funciona?
 
-![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/Gif_Figma.gif)
+## <h3 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/Gif_Figma.gif) </h3> 
 
 --------------------------------------------------------------------------------------------------------------------
 ### E assim terminamos a nossa primeira entrega com **todos os requisitos compridos. Também já nos organizamos escolhendo a IDE que vamos trabalhar.
