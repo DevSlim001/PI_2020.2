@@ -11,7 +11,7 @@
 - :floppy_disk: **Banco de dados** *(Cristian Mateus Teixeira Barbosa e Rafael dos Santos Pereira)*
 
 
-## **_Etapas de desenvolvimento:_**
+## :hourglass_flowing_sand: **_Etapas de desenvolvimento:_**
 
 Entregas | Prioridade | Período de realização | Status
 :-------: |:---------:| :--------------------:|:-----:
