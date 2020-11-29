@@ -14,6 +14,7 @@
 ## **_Etapas de desenvolvimento:_**
 
 Entregas | Prioridade | Período de realização | Status
+:-------: |:---------:| :--------------------:|:-----:
 Sprint 0 | Backlog, wireframes, modelagem de dados | 07/09 a 27/09 |:heavy_check_mark:
 Sprint 1 |Gruds dos motoristas e funcionários | 28/09 a 18/10 |:heavy_check_mark:
 Sprint 2 |Desenvolvimento Front-End | 19/10 a 8/11 | :heavy_check_mark:
