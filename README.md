@@ -33,14 +33,16 @@
 --------------------------------------------------------------------------------------------------------------------
 ## :framed_picture: Wireframes 
 
-#<h3 align="center"> Tela de cadastro  </h3> 
+<h3 align="center"> Tela de cadastro  </h3> 
+
 ## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/tela%20de%20cadastro.png) </h1> 
 
 
-#<h3 align="center"> Tela de Login Motorista </h3> 
+<h3 align="center"> Tela de Login Motorista </h3> 
+
 ## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/Tela%20motorista.png) </h1> 
 
-#<h3 align="center"> Tela de Login Funcionário </h3> 
+<h3 align="center"> Tela de Login Funcionário </h3> 
 
 ## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/Tela%20administrador.png) </h1> 
 
@@ -81,16 +83,16 @@
 --------------------------------------------------------------------------------------------------------------------
 ## :gear: Como funciona?
 
-### <h1 align="center"> Como entrar no aplicativo? </h1>
+### <h3 align="center"> Como entrar no aplicativo? </h3>
 
 ## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/sprint2/Entrar%20no%20app.gif) </h1>
 
 
-### <h1 align="center"> Como realizar o cadastro, procurar, editar ou excluir os dados dos Motoristas/Funcionários? </h1>
+### <h3 align="center"> Como realizar o cadastro, procurar, editar ou excluir os dados dos Motoristas/Funcionários? </h3>
 
 ## <h1 align="center">  ![](https://github.com/DevSlim001/PI_2020.2/blob/sprint2/CrudMotoristaFuncionário.gif) </h1>
 
 
-### <h1 align="center"> Como Cadastrar, procurar, editar ou excluir os veículos? </h1>
+### <h3 align="center"> Como Cadastrar, procurar, editar ou excluir os veículos? </h3>
 
 ## <h1 align="center">  ![](https://github.com/DevSlim001/PI_2020.2/blob/sprint2/CrudVeículos.gif) </h1>
