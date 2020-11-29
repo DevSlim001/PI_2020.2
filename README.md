@@ -33,14 +33,21 @@
 
 ## :man_technologist: Modelo de dados
 
-#### Modelo conceitual:
+<h3 align="center"> Modelo conceitual </h3> 
 
 ## <h1 align="center">  ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/mc_sprint3.jpg) </h1> 
 
 
-#### Modelo lógico:
+<h3 align="center"> Modelo lógico </h3> 
 
 ## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/ml_sprint3.png) </h1> 
+
+--------------------------------------------------------------------------------------------------------------------
+
+#### :tea: Diagrama de Classes:
+
+## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/sprint2/diagramaclasses.png) </h1> 
+
 
 --------------------------------------------------------------------------------------------------------------------
 
@@ -48,11 +55,6 @@
  
 ## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/tecnology.png) </h1> 
 
---------------------------------------------------------------------------------------------------------------------
-
-#### :tea: Diagrama de Classes:
-
-## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/sprint2/diagramaclasses.png) </h1> 
 
 --------------------------------------------------------------------------------------------------------------------
 ## :gear: Como funciona?
@@ -61,17 +63,17 @@
 
 ## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Adicionar-viagem-Funcionario3_1.gif) </h1>
 
- <h1 align="center"> Como mudar status de viagem? </h1> 
+ <h3 align="center"> Como mudar status de viagem? </h3> 
 
 ## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Mudar-status-de-viagem-Motorista3_4.gif) </h1>
 
 
- <h1 align="center"> Como verificar status em tempo real? </h1> 
+ <h3 align="center"> Como verificar status em tempo real? </h3> 
 
 ## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Verificar-status-em-tempo-real3_3.gif) </h1>
 
 
- <h1 align="center"> Como verificar viagens finalizadas? </h1> 
+ <h3 align="center"> Como verificar viagens finalizadas? </h3> 
 
 ## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Como-verificar-viagens-finalizadas-Funcionario3_2.gif) </h1>
 
