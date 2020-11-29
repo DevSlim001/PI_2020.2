@@ -57,7 +57,7 @@
 --------------------------------------------------------------------------------------------------------------------
 ## :gear: Como funciona?
 
- <h1 align="center"> Como adicionar  uma viagem ? </h1> 
+ <h3 align="center"> Como adicionar  uma viagem ? </h3> 
 
 ## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Adicionar-viagem-Funcionario3_1.gif) </h1>
 
