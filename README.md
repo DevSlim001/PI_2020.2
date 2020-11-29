@@ -1,7 +1,5 @@
-## <h0 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/logotipocomum.jpg) </h0>
- 
+## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/logotipocomum.jpg) </h1> 
 # <h1 align="center"> PROJETO INTEGRADOR REALIZADO PELA EQUIPE 3 </h1> 
- 
 ## <h1 align="center">  <img src="https://img.shields.io/static/v1?label=Finished-project&message=Made-in-2020&color=blue&style=for-the-badge&logo=REACT"/> </h1> 
 
 --------------------------------------------------------------------------------------------------------------------
