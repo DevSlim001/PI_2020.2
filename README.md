@@ -19,7 +19,7 @@ Desenvolver um aplicativo de gerenciamento para controle da jornada de trabalho 
 
 - :computer: **Back- end**  
 
-[<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Victor.jpeg" width=115 > <br> <sub> @Victor Gabriel <sub> Master </sub>](https://github.com/RicardoSousaPaiva) | [<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/renan.jpeg" width=120 > <br> <sub> @Renan <sub> Dev </sub>](https://github.com/medrenan) | [<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/ricardo.jpeg" width=80 > <br> <sub> @Ricardo Sousa <sub> Dev </sub>](https://github.com/RicardoSousaPaiva) 
+[<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Victor.jpeg" width=115 > <br> <sub> @Victor Gabriel <sub> Master </sub>](https://github.com/VGabrielMelo) | [<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/renan.jpeg" width=120 > <br> <sub> @Renan <sub> Dev </sub>](https://github.com/medrenan) | [<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/ricardo.jpeg" width=80 > <br> <sub> @Ricardo Sousa <sub> Dev </sub>](https://github.com/RicardoSousaPaiva) 
 | :---: |:---:| :---:|
 
 - :floppy_disk: **Banco de dados** 
