@@ -2,9 +2,13 @@
 # PROJETO INTEGRADOR REALIZADO PELA EQUIPE 3
 ## **_Realizado no segundo semestre de 2020_**
 
+--------------------------------------------------------------------------------------------------------------------
+
 ## :dna: O PROJETO: 
 
 Desenvolver um aplicativo de gerenciamento para controle da Jornada de Trabalho dos Motoristas de forma parametrizável, visando funcionalidades de planejamento,acompanhamento e controle. 
+
+--------------------------------------------------------------------------------------------------------------------
 
 ### Os participantes do nosso time são divididos em 3 frentes, e eles são:
 
