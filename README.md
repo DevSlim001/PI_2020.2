@@ -53,6 +53,53 @@
 --------------------------------------------------------------------------------------------------------------------
 ## :framed_picture: Wireframes 
 
+<h3 align="center"> **Tela de boa vindas** </h3> 
+ 
+## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Login%20de%20motorista%20ou%20funcion%C3%A1riof.png) </h1>
+
+<h3 align="center"> **Login do motorista** </h3> 
+ 
+## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Tela%20de%20login%20motoristaf.png) </h1>
+
+<h3 align="center"> **Login do administrador** </h3> 
+ 
+## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Tela%20de%20login%20administradorf.png) </h1>
+
+<h3 align="center"> **Tela principal do motorista** </h3> 
+ 
+## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Tela%20principal%20para%20motoristaf.png) </h1>
+
+<h3 align="center"> **Tela principal do administrador** </h3> 
+ 
+## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Tela%20principal%20para%20motoristaf.png) </h1>
+
+<h3 align="center"> **Cadastro de motorista** </h3> 
+ 
+## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Cadastro%20de%20motoristas1.png) </h1>
+
+<h3 align="center"> **Cadastro de funcionários** </h3> 
+ 
+## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Cadastro%20de%20ve%C3%ADculos1.png) </h1>
+
+<h3 align="center"> **Cadastro de veículos** </h3> 
+ 
+## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Cadastro%20de%20veiculos1f.png) </h1>
+
+<h3 align="center"> **Cadastro de entrega ou viagem** </h3> 
+ 
+## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Cadastro%20de%20entrega1.png) </h1>
+
+<h3 align="center"> **Cadastro de entrega ou viagem** </h3> 
+ 
+## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Tabela%20de%20entregas%20finalizadasf.png) </h1>
+
+<h3 align="center"> **Painel de controle de viagem** </h3> 
+ 
+## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Pesquisa%20de%20viagens%20para%20motoristaf.png) </h1>
+
+<h3 align="center"> **Relatórios de viagens** </h3> 
+ 
+## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Relat%C3%B3rio%20de%20viagens%20para%20funcionariof.png) </h1>
 
 --------------------------------------------------------------------------------------------------------------------
 ## :man_technologist: Modelo de dados
