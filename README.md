@@ -14,7 +14,7 @@ Desenvolver um aplicativo de gerenciamento para controle da jornada de trabalho 
 
 -  :art: **Front-end** *(Brenno Richard Rabelo de Almeida, Rafael Bettini Dias, Nicolas Cursino Magarifuchi)*
 
-[<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/ricardo.jpeg" width=100 > <br> <sub> Ricardo Sousa de Paiva </sub>](https://github.com/RicardoSousaPaiva) |
+[<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/ricardo.jpeg" width=80 > <br> <sub> Ricardo Sousa de Paiva </sub>](https://github.com/RicardoSousaPaiva) |
 | :---: | 
 
 - :computer: **Back- end** *(Renan Alves de Medeiros, Ricardo Sousa de Paiva e Victor Gabriel Andrade de Melo)*
