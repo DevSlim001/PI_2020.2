@@ -1,6 +1,6 @@
 ![](https://github.com/DevSlim001/PI_2020.2/blob/master/logotipocomum.jpg) 
 # PROJETO INTEGRADOR REALIZADO PELA EQUIPE 3
-## <img src="https://img.shields.io/static/v1?label=PROJETO CONCLUÍDO&message=Realizado em 2020&color=blue&style=for-the-badge&logo=REACT"/>
+## <img src="https://img.shields.io/static/v1?label=PROJETOCONCLUÍDO&message=Realizado2020&color=blue&style=for-the-badge&logo=REACT"/>
 
 --------------------------------------------------------------------------------------------------------------------
 
