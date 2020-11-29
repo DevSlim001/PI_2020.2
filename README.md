@@ -14,7 +14,7 @@ Desenvolver um aplicativo de gerenciamento para controle da jornada de trabalho 
 
 -  :art: **Front-end** *(Brenno Richard Rabelo de Almeida, Rafael Bettini Dias, Nicolas Cursino Magarifuchi)*
 
-[<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Rafael_bettini.jpeg" width=120 > <br> <sub> Rafael Bettini </sub>](https://github.com/Rafael-BD) | [<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Nicolas.jpeg" width=115 > <br> <sub> Nicolas Cursino </sub>](https://github.com/Rafael-BD) |
+[<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Rafael_bettini.jpeg" width=120 > <br> <sub> Rafael Bettini <sub> Dev </sub>](https://github.com/Rafael-BD) | [<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Nicolas.jpeg" width=115 > <br> <sub> Nicolas Cursino </sub>](https://github.com/Rafael-BD) |
 | :---: |:---:| 
 
 - :computer: **Back- end** 
