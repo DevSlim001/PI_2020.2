@@ -24,8 +24,8 @@ Desenvolver um aplicativo de gerenciamento para controle da jornada de trabalho 
 
 - :floppy_disk: **Banco de dados** 
 
-[<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Cristian.jpeg" width=115 > <br> <sub> @Cristian Mateus <sub> Dev </sub>](https://github.com/CristianMateusTB) | [<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/rafael_santos.jpeg" width=85 > <br> <sub> @Rafael dos Santos <sub> Dev </sub>](https://github.com/rafaeldossper)|
-| :---: |:---:| 
+[<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Cristian.jpeg" width=115 > <br> <sub> @Cristian Mateus <sub> Dev </sub>](https://github.com/CristianMateusTB) | [<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/rafael_santos.jpeg" width=85 > <br> <sub> @Rafael dos Santos <sub> Dev </sub>](https://github.com/rafaeldossper)| <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars0.githubusercontent.com/u/39345247?s=460&u=cdff2624a327a43e2765112a54e966a06eac6d79&v=4" width="100px;" alt=""/><br /><sub><b>Joseph Oliveira</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">🚀</a></td>
+| :---: |:---:|:---:| 
 
 
 
