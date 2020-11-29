@@ -89,7 +89,7 @@
  
 ## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Cadastro%20de%20entrega1.png) </h1>
 
-<h3 align="center"> Cadastro de entrega ou viagem </h3> 
+<h3 align="center"> Tabela de entregas </h3> 
  
 ## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Tabela%20de%20entregas%20finalizadasf.png) </h1>
 
