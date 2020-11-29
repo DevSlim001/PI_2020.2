@@ -2,7 +2,7 @@
 # PROJETO INTEGRADOR REALIZADO PELA EQUIPE 3
 ## **_Realizado no segundo semestre de 2020_**
 
-### Os participantes do nosso time são dividitos em 3 frentes, e eles são:
+### Os participantes do nosso time são divididos em 3 frentes, e eles são:
 
 -  :art: **Front-end** *(Brenno Richard Rabelo de Almeida, Rafael Bettini Dias, Nicolas Cursino Magarifuchi)*
 
@@ -11,7 +11,7 @@
 - :floppy_disk: **Banco de dados** *(Cristian Mateus Teixeira Barbosa e Rafael dos Santos Pereira)*
 
 
-**_Para a contrução do projeto foi realizada a entrega de:_**
+**_Etapas de desenvolvimento:_**
 
 - [x] Wireframes (Figma)
 - [x] Modelagem de dados
@@ -52,6 +52,11 @@
 
 ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/DiagramaMCU.png)
 
+--------------------------------------------------------------------------------------------------------------------
+
+#### :tea: Diagrama de Classes:
+
+![](https://github.com/DevSlim001/PI_2020.2/blob/sprint2/diagramaclasses.png)
 
 --------------------------------------------------------------------------------------------------------------------
 
@@ -59,11 +64,6 @@
  
 ![](https://github.com/DevSlim001/PI_2020.2/blob/master/tecnology.png)
 
---------------------------------------------------------------------------------------------------------------------
-
-#### :tea: Diagrama de Classes:
-
-![](https://github.com/DevSlim001/PI_2020.2/blob/sprint2/diagramaclasses.png)
 
 --------------------------------------------------------------------------------------------------------------------
 
