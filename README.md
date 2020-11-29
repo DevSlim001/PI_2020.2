@@ -17,7 +17,7 @@ Desenvolver um aplicativo de gerenciamento para controle da jornada de trabalho 
 [<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Rafael_bettini.jpeg" width=120 > <br> <sub> Rafael Bettini <sub> Dev </sub>](https://github.com/Rafael-BD) | [<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Nicolas.jpeg" width=115 > <br> <sub> Nicolas Cursino </sub>](https://github.com/Rafael-BD) |
 | :---: |:---:| 
 
-- :computer: **Back- end**  :-----------------------: - :floppy_disk: **Banco de dados** 
+- :computer: **Back- end**  |:-----------------------:| - :floppy_disk: **Banco de dados** 
 
 [<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/ricardo.jpeg" width=80 > <br> <sub> Ricardo Sousa </sub>](https://github.com/RicardoSousaPaiva) | [<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/renan.jpeg" width=120 > <br> <sub> Renan </sub>](https://github.com/medrenan)|
 | :---: |:---:| 
