@@ -54,7 +54,7 @@
 
 ## <h1 align="center">  ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/Tutorial_funcionário.png) </h1>
 
-##  Realização de Cadastro no Banco utilizando o Xampp:
+####  Realização de Cadastro no Banco utilizando o Xampp:
 
 <h4 align="center"> Realizando o cadastro e clicando em Salvar: </h4>
 
