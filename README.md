@@ -49,7 +49,7 @@
 
 ## <h3 align="center"> Tela sobre as informações da jornada: </h3> 
 
-<h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Tela%20-%20Informa%C3%A7%C3%B5es%20da%20Jornada.png) </h1>
+## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Tela%20-%20Informa%C3%A7%C3%B5es%20da%20Jornada.png) </h1>
 
 
 --------------------------------------------------------------------------------------------------------------------
