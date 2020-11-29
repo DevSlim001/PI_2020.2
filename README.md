@@ -1,8 +1,6 @@
-![](https://github.com/DevSlim001/PI_2020.2/blob/master/logotipocomum.jpg)
-
-
-# PROJETO INTEGRADOR REALIZADO PELA EQUIPE 3
-## :heavy_check_mark: SPRINT 3
+ <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/logotipocomum.jpg) </h1> 
+# <h1 align="center"> PROJETO INTEGRADOR REALIZADO PELA EQUIPE 3 </h1> 
+## <h1 align="center"> :heavy_check_mark: SPRINT 3 </h1> 
 
 ### A equipe foi dividida em 3 frentes de trabalho:
 
