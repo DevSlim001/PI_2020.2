@@ -132,6 +132,41 @@
 
 --------------------------------------------------------------------------------------------------------------------
 
+## :gear: Como funciona?
+
+### <h3 align="center"> Como entrar no aplicativo? </h3>
+
+## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/sprint2/Entrar%20no%20app.gif) </h1>
+
+
+### <h3 align="center"> Como realizar o cadastro, procurar, editar ou excluir os dados dos Motoristas/Funcionários? </h3>
+
+## <h1 align="center">  ![](https://github.com/DevSlim001/PI_2020.2/blob/sprint2/CrudMotoristaFuncionário.gif) </h1>
+
+
+### <h3 align="center"> Como Cadastrar, procurar, editar ou excluir os veículos? </h3>
+
+## <h1 align="center">  ![](https://github.com/DevSlim001/PI_2020.2/blob/sprint2/CrudVeículos.gif) </h1>
+
+
+<h3 align="center"> Como adicionar  uma viagem ? </h3> 
+
+## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Adicionar-viagem-Funcionario3_1.gif) </h1>
+
+
+ <h3 align="center"> Como mudar status de viagem? </h3> 
+
+## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Mudar-status-de-viagem-Motorista3_4.gif) </h1>
+
+
+ <h3 align="center"> Como verificar status em tempo real? </h3> 
+
+## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Verificar-status-em-tempo-real3_3.gif) </h1>
+
+
+ <h3 align="center"> Como verificar viagens finalizadas? </h3> 
+
+## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Como-verificar-viagens-finalizadas-Funcionario3_2.gif) </h1>
 
 
 
