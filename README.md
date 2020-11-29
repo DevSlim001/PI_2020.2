@@ -63,7 +63,6 @@
 
 ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Adicionar-viagem-Funcionario3_1.gif)
 
-
 ### Como mudar status de de viagem?
 
 ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Mudar-status-de-viagem-Motorista3_4.gif)
