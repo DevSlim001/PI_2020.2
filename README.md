@@ -6,7 +6,7 @@
 
 ## :dna: O PROJETO: 
 
-Desenvolver um aplicativo de gerenciamento para controle da Jornada de Trabalho dos Motoristas de forma parametrizável, visando funcionalidades de planejamento,acompanhamento e controle. 
+Desenvolver um aplicativo de gerenciamento para controle da jornada de trabalho dos motoristas de forma parametrizável, visando funcionalidades de planejamento,acompanhamento e controle. 
 
 --------------------------------------------------------------------------------------------------------------------
 
