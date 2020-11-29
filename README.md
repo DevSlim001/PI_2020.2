@@ -10,7 +10,6 @@
 
 - :floppy_disk: **Banco de dados** *(Cristian Mateus Teixeira Barbosa e Rafael dos Santos Pereira)*
 
-
 --------------------------------------------------------------------------------------------------------------------
 
 ## :bookmark: **_Backlog_**
@@ -49,13 +48,11 @@
 
 ## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/sprint2/diagramaclasses.png) </h1> 
 
-
 --------------------------------------------------------------------------------------------------------------------
 
 ## :rocket: Tecnologias empregadas:
  
 ## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/tecnology.png) </h1> 
-
 
 --------------------------------------------------------------------------------------------------------------------
 ## :gear: Como funciona?
