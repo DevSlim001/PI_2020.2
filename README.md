@@ -57,21 +57,21 @@
 --------------------------------------------------------------------------------------------------------------------
 ## :gear: Como funciona?
 
-### <h1 align="center"> Como adicionar  uma viagem ? </h1> 
+ <h1 align="center"> Como adicionar  uma viagem ? </h1> 
 
 ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Adicionar-viagem-Funcionario3_1.gif)
 
-###  <h1 align="center"> Como mudar status de de viagem? </h1> 
+ <h1 align="center"> Como mudar status de de viagem? </h1> 
 
 ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Mudar-status-de-viagem-Motorista3_4.gif)
 
 
-###  <h1 align="center"> Como verificar status em tempo real? </h1> 
+ <h1 align="center"> Como verificar status em tempo real? </h1> 
 
 ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Verificar-status-em-tempo-real3_3.gif)
 
 
-### <h1 align="center"> Como verificar viagens finalizadas? </h1> 
+ <h1 align="center"> Como verificar viagens finalizadas? </h1> 
 
 ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Como-verificar-viagens-finalizadas-Funcionario3_2.gif)
 
