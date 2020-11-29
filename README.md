@@ -2,6 +2,10 @@
 # PROJETO INTEGRADOR REALIZADO PELA EQUIPE 3
 ## **_Realizado no segundo semestre de 2020_**
 
+## :dna: O PROJETO: 
+
+Desenvolver um aplicativo de gerenciamento para controle da Jornada de Trabalho dos Motoristas de forma parametrizável, visando funcionalidades de planejamento,acompanhamento e controle. 
+
 ### Os participantes do nosso time são divididos em 3 frentes, e eles são:
 
 -  :art: **Front-end** *(Brenno Richard Rabelo de Almeida, Rafael Bettini Dias, Nicolas Cursino Magarifuchi)*
@@ -10,6 +14,8 @@
 
 - :floppy_disk: **Banco de dados** *(Cristian Mateus Teixeira Barbosa e Rafael dos Santos Pereira)*
 
+
+--------------------------------------------------------------------------------------------------------------------
 
 ## :hourglass_flowing_sand: **_Etapas de desenvolvimento:_**
 
@@ -21,6 +27,7 @@ Sprint 2 |Desenvolvimento Front-End | 19/10 a 8/11 | :heavy_check_mark:
 Sprint 3 |Relatórios | 9/11 a 29/11 | :heavy_check_mark:
 
 --------------------------------------------------------------------------------------------------------------------
+
 ## :bookmark: **_Backlog completo_**
 
 ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Product_Backlog_total_3.png)
