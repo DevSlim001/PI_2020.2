@@ -62,7 +62,7 @@
 
 <h3 align="center">  Modelo lógico: </h3> 
 
-##<h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/Modelo%20lógico.png) </h1>
+## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/Modelo%20lógico.png) </h1>
 
 
 --------------------------------------------------------------------------------------------------------------------
