@@ -34,18 +34,18 @@
 
 ## :framed_picture: Wireframes 
 
-##### Tela de Motoristas
+<h3 align="center">  Tela de Motoristas </h3>
 
  ## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/CadastroMotoristas.png) </h1> 
 
 
-##### Tela de funcionários
+<h3 align="center"> Tela de funcionários </h3>
 
 ## <h1 align="center">  ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/Cadastro_pesquisaFuncinário.png) </h1> 
 
 #### Exemplo das funcionalidades:
 
-##### Tutorial da tela de motorista
+<h3 align="center"> Tutorial da tela de motorista </h3>
 
 ## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/TutorialMotoristas.png) </h1>
 
@@ -54,13 +54,13 @@
 
 ## <h1 align="center">  ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/Tutorial_funcionário.png) </h1>
 
-#### Realização de Cadastro no Banco utilizando o Xampp:
+<h3 align="center">  Realização de Cadastro no Banco utilizando o Xampp: </h3>
 
-##### Realizando o cadastro e clicando em Salvar:
+<h3 align="center"> Realizando o cadastro e clicando em Salvar: </h3>
 
 ## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/exemploCadastro.png) </h1>
 
-##### Verificando no banco de dados:
+<h3 align="center"> Verificando no banco de dados: </h3>
 
 ## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/Provadecadastro.png) </h1>
 
@@ -74,7 +74,7 @@
 
 ## :man_technologist: Modelo de dados
 
-#### Diagrama de caso e uso:
+<h3 align="center"> Diagrama de caso e uso:  </h3>
 
 ## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/DiagramaMCU.png) </h1>
 
