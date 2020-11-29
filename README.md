@@ -56,11 +56,11 @@
 
 ### :man_technologist: Modelagem de dados
 
-## <h3 align="center">  Modelo conceitual: </h3> 
+<h3 align="center">  Modelo conceitual: </h3> 
 
 ## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/modeloconceitual.jpg) </h1>
 
-## <h3 align="center">  Modelo lógico: </h3> 
+<h3 align="center">  Modelo lógico: </h3> 
 
 ##<h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint0/Modelo%20lógico.png) </h1>
 
