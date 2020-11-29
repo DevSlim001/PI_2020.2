@@ -23,7 +23,7 @@
 
 ## :tea: **Teste de funcionalidades**
 
-![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/testes_funcionalidades3.png)
+![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/testes_funcionalidades3_1.png)
 
 --------------------------------------------------------------------------------------------------------------------
 
