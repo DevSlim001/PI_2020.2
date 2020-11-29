@@ -14,7 +14,7 @@ Desenvolver um aplicativo de gerenciamento para controle da jornada de trabalho 
 
 -  :art: **Front-end**
 
- [<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Nicolas.jpeg" width=115 > <br> <sub> @Brenno Richard <sub> PO </sub>](https://github.com/brennorichard) |[<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Rafael_bettini.jpeg" width=120 > <br> <sub> @Rafael Bettini <sub> Dev </sub>](https://github.com/Rafael-BD) | [<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Nicolas.jpeg" width=115 > <br> <sub> @Nicolas Cursino <sub> Dev </sub>](https://github.com/Rafael-BD) |
+ [<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Brenno.jpg" width=115 > <br> <sub> @Brenno Richard <sub> PO </sub>](https://github.com/brennorichard) |[<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Rafael_bettini.jpeg" width=120 > <br> <sub> @Rafael Bettini <sub> Dev </sub>](https://github.com/Rafael-BD) | [<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Nicolas.jpeg" width=115 > <br> <sub> @Nicolas Cursino <sub> Dev </sub>](https://github.com/Rafael-BD) |
 | :---: |:---:|:---:| 
 
 - :computer: **Back- end**  
