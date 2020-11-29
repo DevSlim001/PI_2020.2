@@ -50,7 +50,7 @@
 ## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/TutorialMotoristas.png) </h1>
 
 
-##### Tutorial da tela de funcionários
+<h4 align="center">  Tutorial da tela de funcionários </h4>
 
 ## <h1 align="center">  ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/Tutorial_funcionário.png) </h1>
 
