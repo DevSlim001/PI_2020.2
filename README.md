@@ -36,33 +36,33 @@
 
 ##### Tela de Motoristas
 
-![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/CadastroMotoristas.png)
+ ## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/CadastroMotoristas.png) </h1> 
 
 
 ##### Tela de funcionários
 
-![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/Cadastro_pesquisaFuncinário.png)
+<h1 align="center">  ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/Cadastro_pesquisaFuncinário.png) </h1> 
 
 #### Exemplo das funcionalidades:
 
 ##### Tutorial da tela de motorista
 
-![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/TutorialMotoristas.png)
+<h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/TutorialMotoristas.png) </h1>
 
 
 ##### Tutorial da tela de funcionários
 
-![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/Tutorial_funcionário.png)
+<h1 align="center">  ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/Tutorial_funcionário.png) </h1>
 
 #### Realização de Cadastro no Banco utilizando o Xampp:
 
 ##### Realizando o cadastro e clicando em Salvar:
 
-![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/exemploCadastro.png)
+<h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/exemploCadastro.png) </h1>
 
 ##### Verificando no banco de dados:
 
-![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/Provadecadastro.png)
+<h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/Provadecadastro.png) </h1>
 
 --------------------------------------------------------------------------------------------------------------------
 
@@ -76,7 +76,7 @@
 
 #### Diagrama de caso e uso:
 
-![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/DiagramaMCU.png)
+<h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/DiagramaMCU.png) </h1>
 
 --------------------------------------------------------------------------------------------------------------------
 
