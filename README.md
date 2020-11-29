@@ -10,7 +10,7 @@ Desenvolver um aplicativo de gerenciamento para controle da jornada de trabalho 
 
 --------------------------------------------------------------------------------------------------------------------
 
-### Os participantes do nosso time são divididos em 3 frentes, e eles são:
+### Nosssa equipe é dividida em 3 frentes:
 
 -  :art: **Front-end** *(Brenno Richard Rabelo de Almeida, Rafael Bettini Dias, Nicolas Cursino Magarifuchi)*
 
