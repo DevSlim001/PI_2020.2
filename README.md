@@ -37,6 +37,7 @@
 
 ## <h1 align="center">  ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/mc_sprint3.jpg) </h1> 
 
+--------------------------------------------------------------------------------------------------------------------
 
 <h3 align="center"> Modelo lógico </h3> 
 
@@ -44,7 +45,7 @@
 
 --------------------------------------------------------------------------------------------------------------------
 
-#### :tea: Diagrama de Classes:
+<h3 align="center"> :tea: Diagrama de Classes: </h3>
 
 ## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/sprint2/diagramaclasses.png) </h1> 
 
