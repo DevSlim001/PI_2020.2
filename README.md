@@ -14,18 +14,18 @@ Desenvolver um aplicativo de gerenciamento para controle da jornada de trabalho 
 
 -  :art: **Front-end** *(Brenno Richard Rabelo de Almeida, Rafael Bettini Dias, Nicolas Cursino Magarifuchi)*
 
-[<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Rafael_bettini.jpeg" width=120 > <br> <sub> Rafael Bettini _<sub> Dev </sub>](https://github.com/Rafael-BD) | [<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Nicolas.jpeg" width=115 > <br> <sub> Nicolas Cursino </sub>](https://github.com/Rafael-BD) |
+[<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Rafael_bettini.jpeg" width=120 > <br> <sub> Rafael Bettini <sub> Dev </sub>](https://github.com/Rafael-BD) | [<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Nicolas.jpeg" width=115 > <br> <sub> Nicolas Cursino </sub>](https://github.com/Rafael-BD) |
 | :---: |:---:| 
 
-- :computer: **Back- end** 
+- :computer: **Back- end**                                       - :floppy_disk: **Banco de dados** 
 
 [<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/ricardo.jpeg" width=80 > <br> <sub> Ricardo Sousa </sub>](https://github.com/RicardoSousaPaiva) | [<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/renan.jpeg" width=120 > <br> <sub> Renan </sub>](https://github.com/medrenan)|
+| :---: |:---:| :--------------------------------------------------:| [<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Cristian.jpeg" width=115 > <br> <sub> Cristian Mateus </sub>](https://github.com/CristianMateusTB) | [<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/rafael_santos.jpeg" width=85 > <br> <sub> Renan </sub>](https://github.com/rafaeldossper)|
 | :---: |:---:| 
 
-- :floppy_disk: **Banco de dados** 
 
-[<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Cristian.jpeg" width=115 > <br> <sub> Cristian Mateus </sub>](https://github.com/CristianMateusTB) | [<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/rafael_santos.jpeg" width=85 > <br> <sub> Renan </sub>](https://github.com/rafaeldossper)|
-| :---: |:---:| 
+
+
 
 
 --------------------------------------------------------------------------------------------------------------------
