@@ -15,45 +15,21 @@
 
 --------------------------------------------------------------------------------------------------------------------
 
-![](https://github.com/DevSlim001/PI_2020.2/blob/master/card3.png)
-
---------------------------------------------------------------------------------------------------------------------
 ## :bookmark: **_Backlog_**
 
-. :scroll: **Eu como funcionário/administrador gostaria de cadastrar um motorista no sistema para controlar sua atividade.**
-
-. :scroll: **Eu como motorista gostaria de acessar meu perfil para registro de atividade durante a jornada.**
-
-. :scroll: **Eu como funcionário/administrador gostaria de acessar meu perfil para controle de jornada e cadastro de funcionários.**
+![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Product_Backlog_total_3.png)
 
 --------------------------------------------------------------------------------------------------------------------
 
-## :dart: **_Priorização na Sprint 3:_**
+## :tea: **Teste de funcionalidades**
 
-Foi decidido 40 de dificuldade devido aos processos de comunicação entre o software e o banco de dados, a troca de software para desenvolvimento Front-End e toda a parte de código responsáveis pela funcionalidade dos CRUD's construídos até o momento.
-
---------------------------------------------------------------------------------------------------------------------
-## :framed_picture: Wireframes 
-
-#### Tela de cadastro:
-![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/tela%20de%20cadastro.png)
-
-
-#### Tela de Login Motorista:
-![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/Tela%20motorista.png)
-
-#### Tela de Login Funcionário:
-
-![](https://github.com/DevSlim001/PI_2020.2/blob/Sprint1/Tela%20administrador.png)
-
+![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/testes_funcionalidades3.png)
 
 --------------------------------------------------------------------------------------------------------------------
 
-## :running_man: Burndown:
+## :chart_with_upwards_trend: Burndown:
 
  ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/BurndownSprint3.png)
-
-
 
 --------------------------------------------------------------------------------------------------------------------
 
