@@ -15,19 +15,19 @@
 
 ## :bookmark: **_Backlog_**
 
-![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Product_Backlog_total_3.png)
+## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Product_Backlog_total_3.png)</h1> 
 
 --------------------------------------------------------------------------------------------------------------------
 
 ## :clapper: **Teste de funcionalidades**
 
-![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/testes_funcionalidades3_1.png)
+## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/testes_funcionalidades3_1.png) </h1> 
 
 --------------------------------------------------------------------------------------------------------------------
 
 ## :chart_with_upwards_trend: Burndown:
 
- ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/BurndownSprint3.png)
+## <h1 align="center">  ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/BurndownSprint3.png) </h1> 
 
 --------------------------------------------------------------------------------------------------------------------
 
