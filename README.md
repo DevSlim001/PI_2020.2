@@ -88,9 +88,9 @@ Foi decidido 40 de dificuldade devido aos processos de comunicação entre o sof
 
 ### <h1 align="center"> Como realizar o cadastro, procurar, editar ou excluir os dados dos Motoristas/Funcionários? </h1>
 
-<h1 align="center">  ![](https://github.com/DevSlim001/PI_2020.2/blob/sprint2/CrudMotoristaFuncionário.gif) </h1>
+## <h1 align="center">  ![](https://github.com/DevSlim001/PI_2020.2/blob/sprint2/CrudMotoristaFuncionário.gif) </h1>
 
 
 ### <h1 align="center"> Como Cadastrar, procurar, editar ou excluir os veículos? </h1>
 
-<h1 align="center">  ![](https://github.com/DevSlim001/PI_2020.2/blob/sprint2/CrudVeículos.gif) </h1>
+## <h1 align="center">  ![](https://github.com/DevSlim001/PI_2020.2/blob/sprint2/CrudVeículos.gif) </h1>
