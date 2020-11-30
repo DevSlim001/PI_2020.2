@@ -171,7 +171,7 @@
 
 ## <h1 align="center"> :handshake: CONSIDERAÇÕES </h1>
 
-<p align="justify"> A equipe 3 agradece a **FATEC** e **IACIT** por possibilitarem a realização desse projeto através dos diversos auxílios e consultorias.</p> <h1> :clap: </h1> 
+A equipe 3 agradece a **FATEC** e **IACIT** por possibilitarem a realização desse projeto através dos diversos auxílios e consultorias.<h1> :clap: </h1> 
 
 
 
