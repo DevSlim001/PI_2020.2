@@ -13,18 +13,18 @@
 ### Nossa equipe é dividida em 3 frentes:
 
 
-## <h3 align="center">   :art: **Front-end** </h3> 
+##  :art: **Front-end** 
 
 
 [<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Brenno.jpeg" width=115 > <br> <sub> @Brenno Richard <sub> PO </sub>](https://github.com/brennorichard)| [<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Rafael_bettini.jpeg" width=120 > <br> <sub> @Rafael Bettini <sub> Dev </sub>](https://github.com/Rafael-BD) | [<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Nicolas.jpeg" width=115 > <br> <sub> @Nicolas Cursino <sub> Dev </sub>](https://github.com/nicursino)
  | :---: |:---:|:---:|
 
-## <h3 align="center">  :computer: **Back- end**  </h3>   
+##  :computer: **Back- end**   
 
  [<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Victor.jpeg" width=115 > <br> <sub> @Victor Gabriel <sub> Master </sub>](https://github.com/VGabrielMelo) | [<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/renan.jpeg" width=120 > <br> <sub> @Renan <sub> Dev </sub>](https://github.com/medrenan) | [<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/ricardo.jpeg" width=80 > <br> <sub> @Ricardo Sousa <sub> Dev </sub>](https://github.com/RicardoSousaPaiva)
 | :---: |:---:| :---:|
 
-## <h3 align="center">   :floppy_disk: **Banco de dados** </h3>   
+##  :floppy_disk: **Banco de dados**   
 
 [<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Cristian.jpeg" width=115 > <br> <sub> @Cristian Mateus <sub> Dev </sub>](https://github.com/CristianMateusTB) | [<img src="https://github.com/DevSlim001/PI_2020.2/blob/master/assets/rafael_santos.jpeg" width=85 > <br> <sub> @Rafael dos Santos <sub> Dev </sub>](https://github.com/rafaeldossper)
 | :---: |:---:| 
@@ -168,6 +168,10 @@
 
 ## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Como-verificar-viagens-finalizadas-Funcionario3_2.gif) </h1>
 
+
+## <h1 align="center"> :handshake: CONSIDERAÇÕES </h1>
+
+A equipe 3 agradece a FATEC e IACIT por possibilitar a realização desse projeto através dos diversos auxílios e consultorias. :clap: 
 
 
 
