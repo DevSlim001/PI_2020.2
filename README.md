@@ -171,7 +171,7 @@
 
 ## <h1 align="center"> :handshake: CONSIDERAÇÕES </h1>
 
-A equipe 3 agradece a FATEC e IACIT por possibilitar a realização desse projeto através dos diversos auxílios e consultorias. # :clap: 
+A equipe 3 agradece a FATEC e IACIT por possibilitar a realização desse projeto através dos diversos auxílios e consultorias. ## :clap: 
 
 
 
