@@ -53,7 +53,7 @@
 --------------------------------------------------------------------------------------------------------------------
 ## :framed_picture: Wireframes 
 
-<h3 align="center"> Tela de boa vindas </h3> 
+<h3 align="center"> Tela de boas-vindas </h3> 
  
 ## <h1 align="center"> ![](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Login%20de%20motorista%20ou%20funcion%C3%A1riof.png) </h1>
 
